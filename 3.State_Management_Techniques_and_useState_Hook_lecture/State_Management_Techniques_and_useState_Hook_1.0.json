@@ -1,0 +1,46 @@
+{
+    "scenes": [
+        {
+            "script": "Hello, I'm Debobrota Haldar, and I'll be your instructor for today's lecture that is State Management Techniques and useState Hook. Today, we're going to unpack the useState hook - a fundamental hook in React that allows you to add state to your functional components.\n\nImagine you're reading a book, and you use a bookmark to remember the page you're on. useState is like that bookmark, but for your component. It lets you keep track of information, and just as you might move the bookmark as you read further, useState allows your component to change its remembered information as the user interacts with your app.\n\nBefore hooks were introduced, state could only be used in class components. This meant you had to understand more complex concepts like 'this' keyword, lifecycle methods, and more. But now, with useState, you can manage state in a simpler, more elegant way.\n\nBy the end of our session, you'll know how to make your components dynamic and responsive to user actions using the useState hook. You'll learn how to declare state variables, update them, and use those updates to make your app interactive and alive.",
+            "slide": "<div>\n    <h1>Understanding the useState Hook</h1>\n    <ul>\n        <li><strong>What is useState?</strong>\n            <ul>\n                <li>Hook that adds state to functional components</li>\n            </ul>\n        </li>\n        <li><strong>useState vs Class State:</strong>\n            <ul>\n                <li>Simplified state management in functional components</li>\n            </ul>\n        </li>\n        <li><strong>Declaring State Variables:</strong>\n            <ul>\n                <li>Declare and modify state within components</li>\n            </ul>\n        </li>\n        <li><strong>Making Components Interactive:</strong>\n            <ul>\n                <li>Update components in response to user actions</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+            "data": null,
+            "type": "explanation"
+        },
+        {
+            "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+            "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+            "data": null,
+            "type": "clarification"
+        },
+        {
+            "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+            "slide": "<div>\n    <h1>The useState Hook in Functional Components</h1>\n    <p>What does the useState hook allow you to do in a functional component?</p>\n    <ol>\n        <li>a) Add lifecycle methods to the component.</li>\n        <li>b) Handle HTTP requests in the component.</li>\n        <li>c) Add and manage state within the component.</li>\n        <li>d) Render the component as a class component.</li>\n    </ol>\n</div>",
+            "data": {
+                "answer": [
+                    "c",
+                    "option c",
+                    "c) Add and manage state within the component."
+                ],
+                "options": [
+                    "a) Add lifecycle methods to the component.",
+                    "b) Handle HTTP requests in the component.",
+                    "c) Add and manage state within the component.",
+                    "d) Render the component as a class component."
+                ]
+            },
+            "type": "assessment"
+        },
+        {
+            "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+            "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+            "data": null,
+            "type": "feedback"
+        },
+        {
+            "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) Add and manage state within the component.",
+            "slide": "<div>\n    <h1>The useState Hook in Functional Components</h1>\n    <p>What does the useState hook allow you to do in a functional component?</p>\n    <ol>\n        <li>a) Add lifecycle methods to the component.</li>\n        <li>b) Handle HTTP requests in the component.</li>\n        <li>c) Add and manage state within the component.</li>\n        <li>d) Render the component as a class component.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) Add and manage state within the component.</h1></div>",
+            "data": null,
+            "type": "revisit"
+        }
+    ]
+}

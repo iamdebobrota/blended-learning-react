@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In this lesson, we are going to understand a powerful feature in React called the useState Hook. React is a popular library for building user interfaces, and useState is a tool that allows us to manage state in our applications effectively.\n\nYou can think of state as the memory of a component in your application. It's like a character in a story who can remember past events and use them to decide what to do next. With useState, we can keep track of these events and pieces of information in our components, which can change over time due to user interactions or other factors.\n\nThe useState Hook gives components in React the ability to remember things by setting up a 'state variable'. It's as if we're giving our component a personal notebook to jot down notes and update them whenever necessary. We'll explore how this works in practice and see useState in action, allowing our components to dynamically display information and respond to users.\n\nBy the end of this lecture, you'll have a clear picture of how useState makes our React components interactive and responsive. This understanding is crucial not just for this lesson, but for your journey as a modern web developer using React.",
+      "slide": "<div>\n    <h1>Understanding the useState Hook</h1>\n    <ul>\n        <li><strong>What is State?</strong>\n            <ul>\n                <li>The memory of a component</li>\n            </ul>\n        </li>\n        <li><strong>What is useState Hook?</strong>\n            <ul>\n                <li>A tool to manage state in React applications</li>\n            </ul>\n        </li>\n        <li><strong>How does useState work?</strong>\n            <ul>\n                <li>Lets components remember and update information</li>\n            </ul>\n        </li>\n        <li><strong>Why is it important?</strong>\n            <ul>\n                <li>Makes components interactive and responsive</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding useState in React</h1>\n    <p>What does the useState Hook in React primarily allow you to do?</p>\n    <ol>\n        <li>a) Connect to an external API.</li>\n        <li>b) Style the components with CSS.</li>\n        <li>c) Manage and update component state.</li>\n        <li>d) Render components on the page.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) Manage and update component state."
+        ],
+        "options": [
+          "a) Connect to an external API.",
+          "b) Style the components with CSS.",
+          "c) Manage and update component state.",
+          "d) Render components on the page."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) Manage and update component state.",
+      "slide": "<div>\n    <h1>Understanding useState in React</h1>\n    <p>What does the useState Hook in React primarily allow you to do?</p>\n    <ol>\n        <li>a) Connect to an external API.</li>\n        <li>b) Style the components with CSS.</li>\n        <li>c) Manage and update component state.</li>\n        <li>d) Render components on the page.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) Manage and update component state.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

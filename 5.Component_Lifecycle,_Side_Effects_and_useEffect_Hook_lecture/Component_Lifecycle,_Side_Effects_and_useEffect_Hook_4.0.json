@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we are going to unravel the workings of a powerful feature in React's arsenal \u2013 the useEffect hook, specifically focusing on its role in the component lifecycle during the update phase and the importance of cleanup functions.\n\nImagine a React component like a biologist's lab, where multiple experiments (side-effects) can occur while observing a specimen (our UI). Just as a lab must be maintained to ensure accurate results, our components need to manage side-effects to prevent bugs and memory leaks.\n\nThe useEffect hook allows us to add these side-effects, such as fetching data, subscribing to services, or manually changing the DOM, which are not part of the normal render flow. And during the update phase, when our component changes due to state or props alteration, useEffect carefully determines when to re-run these side-effects, based on dependencies we provide.\n\nBut what happens to side-effects that should only run once or need to be cleaned up before running again? This is where cleanup functions come into play. They are the protocols for safely dismantling an experiment (side-effect) to ensure the lab (our component) is ready for its next task without any residual impact from the previous one.\n\nBy the end of our discussion, you will have a clear understanding of how to effectively harness the power of useEffect to handle side-effects in your React components, and crucially, how to clean them up to maintain robust and healthy components.",
+      "slide": "<div>\n    <h1>Understanding useEffect and Cleanup Functions</h1>\n    <ul>\n        <li><strong>UseEffect Hook Role:</strong>\n            <ul>\n                <li>Manages side effects in component lifecycle</li>\n            </ul>\n        </li>\n        <li><strong>Update Phase:</strong>\n            <ul>\n                <li>Effect re-runs based on dependency changes</li>\n            </ul>\n        </li>\n        <li><strong>Cleanup Functions:</strong>\n            <ul>\n                <li>Necessary for preventing memory leaks and bugs</li>\n                <li>Ensures component is reset for next effects</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Cleanup Functions in UseEffect</h1>\n    <p>Why are cleanup functions in the useEffect hook important in React components?</p>\n    <ol>\n        <li>a) They optimize the component for better performance during the initial mount.</li>\n        <li>b) They prepare the component for unmounting from the DOM.</li>\n        <li>c) They reset the component state to its initial values.</li>\n        <li>d) They prevent memory leaks and conflicts from outdated side-effects when the component updates or unmounts.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "d",
+          "option d",
+          "d) They prevent memory leaks and conflicts from outdated side-effects when the component updates or unmounts."
+        ],
+        "options": [
+          "a) They optimize the component for better performance during the initial mount.",
+          "b) They prepare the component for unmounting from the DOM.",
+          "c) They reset the component state to its initial values.",
+          "d) They prevent memory leaks and conflicts from outdated side-effects when the component updates or unmounts."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is d) They prevent memory leaks and conflicts from outdated side-effects when the component updates or unmounts.",
+      "slide": "<div>\n    <h1>Cleanup Functions in UseEffect</h1>\n    <p>Why are cleanup functions in the useEffect hook important in React components?</p>\n    <ol>\n        <li>a) They optimize the component for better performance during the initial mount.</li>\n        <li>b) They prepare the component for unmounting from the DOM.</li>\n        <li>c) They reset the component state to its initial values.</li>\n        <li>d) They prevent memory leaks and conflicts from outdated side-effects when the component updates or unmounts.</li>\n    </ol>\n</div>\n <div><h1>Answer:- d) They prevent memory leaks and conflicts from outdated side-effects when the component updates or unmounts.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we'll unlock the power of modern web development by learning about the React framework and how it can be combined with Vite and the useRef hook. Imagine React as a painter's canvas, where you can quickly create and update dynamic, user-friendly web interfaces.\n\nWith Vite, think of it as a set of high-speed brushes and tools that the painter uses to instantly see the result of each brushstroke, making the development experience much faster and more efficient than traditional tools.\n\nNow, add the useRef hook to our toolset \u2013 it's like a memory bookmark in our painting process, allowing us to keep track of specific parts without having to repaint the entire canvas again. This means we can efficiently manage focus, text selection, or media playback in our React apps.\n\nLastly, we'll see how Generative AI can be our muse, inspiring us to generate content, automate tasks, and enhance user interactions, leading to a revolutionized development workflow.\n\nBy the end of this lecture, you'll be able to craft React projects using Vite, harness the powers of the useRef hook, and stimulate your projects with the creative potential of Generative AI.",
+      "slide": "<div>\n    <h1>Building React Projects with Vite and useRef Hook</h1>\n    <ul>\n        <li><strong>Discover React:</strong>\n            <ul>\n                <li>A library for building user interfaces</li>\n            </ul>\n        </li>\n        <li><strong>Speed with Vite:</strong>\n            <ul>\n                <li>A new breed of faster development tooling</li>\n            </ul>\n        </li>\n        <li><strong>Understanding useRef:</strong>\n            <ul>\n                <li>Access DOM elements and persist data across renders</li>\n            </ul>\n        </li>\n        <li><strong>Empowering with Generative AI:</strong>\n            <ul>\n                <li>Innovate with AI-generated content and automation</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding useRef in React</h1>\n    <p>What is the primary use of the useRef hook in a React project?</p>\n    <ol>\n        <li>a) To store the state of a component, causing a re-render when updated.</li>\n        <li>b) To directly interact with a DOM element without causing a re-render.</li>\n        <li>c) To fetch data from an API and display it in the component.</li>\n        <li>d) To style React elements with CSS in JavaScript.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) To directly interact with a DOM element without causing a re-render."
+        ],
+        "options": [
+          "a) To store the state of a component, causing a re-render when updated.",
+          "b) To directly interact with a DOM element without causing a re-render.",
+          "c) To fetch data from an API and display it in the component.",
+          "d) To style React elements with CSS in JavaScript."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) To directly interact with a DOM element without causing a re-render.",
+      "slide": "<div>\n    <h1>Understanding useRef in React</h1>\n    <p>What is the primary use of the useRef hook in a React project?</p>\n    <ol>\n        <li>a) To store the state of a component, causing a re-render when updated.</li>\n        <li>b) To directly interact with a DOM element without causing a re-render.</li>\n        <li>c) To fetch data from an API and display it in the component.</li>\n        <li>d) To style React elements with CSS in JavaScript.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) To directly interact with a DOM element without causing a re-render.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

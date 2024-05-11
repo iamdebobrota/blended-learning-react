@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we will explore the world of modern web development with a focus on using Vite for React applications. Imagine you're an artist getting ready to paint a masterpiece, but before you start, you need to prep your canvas and lay out your tools. In the web development process, Vite is like an advanced set of tools that helps you prepare your 'digital canvas' quickly and efficiently for creating React apps.\n\nVite is a build tool that significantly speeds up the development process. It stands out because it doesn't rebuild the entire app when you make changes \u2013 think of it as being able to quickly sketch and erase without having to repaint your whole canvas every time you make an adjustment.\n\nSo, why Vite for React? Simply put, Vite provides a faster and more modern development experience. It takes advantage of the latest web standards, has out-of-the-box features like Hot Module Replacement, and requires minimal configuration.\n\nBy the end of this lecture, you'll gain an understanding of how Vite streamlines the creation of React projects, how to incorporate the useRef hook to manage focus without re-rendering components, and how to leverage Generative AI to enhance development. Let's embark on this journey to make your React development faster, more efficient, and more enjoyable.",
+      "slide": "<div>\n    <h1>Why and How to Use Vite for React?</h1>\n    <ul>\n        <li><strong>Introduction to Vite:</strong>\n            <ul>\n                <li>Next-generation front-end build tool</li>\n                <li>Optimized for speed and efficiency</li>\n            </ul>\n        </li>\n        <li><strong>Advantages of Vite:</strong>\n            <ul>\n                <li>Instant server start</li>\n                </li>Hot Module Replacement (HMR)</li>\n                <li>Minimal configuration</li>\n            </ul>\n        </li>\n        <li><strong>Integrating with React:</strong>\n            <ul>\n                <li>Enhanced development workflow</li>\n                <li>Using the useRef Hook for better control</li>\n            </ul>\n        </li>\n        <li><strong>Leveraging Generative AI:</strong>\n            <ul>\n                <li>Incorporating AI tools into the development process</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Vite for React Development</h1>\n    <p>What is one of the main benefits of using Vite for developing React applications?</p>\n    <ol>\n        <li>a) It requires complex configuration to get started.</li>\n        <li>b) It only supports old web standards.</li>\n        <li>c) It provides faster development experience by optimizing the build process.</li>\n        <li>d) It rebuilds the entire app for every change you make.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) It provides faster development experience by optimizing the build process."
+        ],
+        "options": [
+          "a) It requires complex configuration to get started.",
+          "b) It only supports old web standards.",
+          "c) It provides faster development experience by optimizing the build process.",
+          "d) It rebuilds the entire app for every change you make."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) It provides faster development experience by optimizing the build process.",
+      "slide": "<div>\n    <h1>Vite for React Development</h1>\n    <p>What is one of the main benefits of using Vite for developing React applications?</p>\n    <ol>\n        <li>a) It requires complex configuration to get started.</li>\n        <li>b) It only supports old web standards.</li>\n        <li>c) It provides faster development experience by optimizing the build process.</li>\n        <li>d) It rebuilds the entire app for every change you make.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) It provides faster development experience by optimizing the build process.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

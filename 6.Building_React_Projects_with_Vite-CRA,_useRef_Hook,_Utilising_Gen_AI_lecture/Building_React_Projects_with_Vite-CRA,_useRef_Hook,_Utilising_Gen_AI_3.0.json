@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we're embarking on a journey to navigate the realms of React application development, aided by powerful tools like Vite-CRA, useRef Hook, and the revolutionary Generative AI. As we unwrap these technologies, we'll see how they interweave to enhance the React development experience.\n\nImagine building a high-performance React project. Vite-CRA provides a streamlined setup, jump-starting the development process with rapid updates and a developer-friendly environment. It's like having a high-speed express lane that gets you where you need to be faster and more efficiently.\n\nNext, picture yourself as a painter, but instead of canvas, you're painting dynamic user interfaces. The useRef Hook is your magic brush, allowing you to hold references to elements or values that persist across re-renders without causing additional renders themselves. This can be incredibly useful for managing focus, text selection, or triggering imperative animations.\n\nFinally, we'll delve into the burgeoning world of Generative AI. Think of Generative AI as your creative assistant, it can generate content, code, or even images that can serve as inspiration or a foundation for your projects. It's like having a brainstorming partner that's available at any time to spark innovation.\n\nBy the conclusion of this lecture, you will not only grasp the function of each tool but also how to harness their collective power in building state-of-the-art React projects.",
+      "slide": "<div>\n    <h1>Building High-Performance React Projects</h1>\n    <ul>\n        <li><strong>Vite-CRA:</strong>\n            <ul>\n                <li>Optimized project setup for React</li>\n                <li>Fast refresh and development process</li>\n            </ul>\n        </li>\n        <li><strong>useRef Hook:</strong>\n            <ul>\n                <li>Manages references to DOM elements/values</li>\n                <li>Persists data without causing re-renders</li>\n            </ul>\n        </li>\n        <li><strong>Generative AI in Development:</strong>\n            <ul>\n                <li>Enhances creativity and speeds up development</li>\n                <li>Acts as an on-demand brainstorming assistant</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding useRef Hook in React</h1>\n    <p>What is the primary use of the useRef Hook in React applications?</p>\n    <ol>\n        <li>a) To re-render the component whenever the reference changes.</li>\n        <li>b) To hold mutable references to DOM elements or values across re-renders.</li>\n        <li>c) To manage the state and lifecycle of functional components.</li>\n        <li>d) To optimize performance by memoizing components.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) To hold mutable references to DOM elements or values across re-renders."
+        ],
+        "options": [
+          "a) To re-render the component whenever the reference changes.",
+          "b) To hold mutable references to DOM elements or values across re-renders.",
+          "c) To manage the state and lifecycle of functional components.",
+          "d) To optimize performance by memoizing components."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) To hold mutable references to DOM elements or values across re-renders.",
+      "slide": "<div>\n    <h1>Understanding useRef Hook in React</h1>\n    <p>What is the primary use of the useRef Hook in React applications?</p>\n    <ol>\n        <li>a) To re-render the component whenever the reference changes.</li>\n        <li>b) To hold mutable references to DOM elements or values across re-renders.</li>\n        <li>c) To manage the state and lifecycle of functional components.</li>\n        <li>d) To optimize performance by memoizing components.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) To hold mutable references to DOM elements or values across re-renders.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

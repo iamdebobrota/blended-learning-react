@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we're going to delve into an intriguing aspect of React, a popular JavaScript library for building user interfaces - specifically, we'll focus on state management techniques and the useState hook. Within this framework, there are two distinct ways to handle form elements, known as Controlled and Uncontrolled Components.\n\nLet's think of Controlled Components as pets on a leash \u2013 you have full control over them. In React, these are form elements like <input>, <textarea>, and <select> that are controlled by the state within the component. We directly manage their state and respond to every change, typically through the useState hook.\n\nOn the other hand, Uncontrolled Components are like free-roaming animals in nature \u2013 they manage themselves. These are form elements that keep their own state internally and are queried using a ref when needed. We do not directly manage the state of these elements through state updates in the component.\n\nWe'll dive into practical examples of using useState to control components, the benefits of each approach, and their best use cases. By the end of this session, you'll be equipped to manage state effectively in your React applications and understand when to use controlled versus uncontrolled components.",
+      "slide": "<div>\n    <h1>State Management in React</h1>\n    <ul>\n        <li><strong>Understanding Controlled Components:</strong>\n            <ul>\n                <li>Components where React controls the state</li>\n                <li>State updates with every change</li>\n            </ul>\n        </li>\n        <li><strong>Exploring Uncontrolled Components:</strong>\n            <ul>\n                <li>Internally managed state, accessed through refs</li>\n            </ul>\n        </li>\n        <li><strong>The useState Hook:</strong>\n            <ul>\n                <li>Essential for handling state in functional components</li>\n            </ul>\n        </li>\n        <li><strong>Practical Application:</strong>\n            <ul>\n                <li>Examples and best practices</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Controlled vs Uncontrolled Components</h1>\n    <p>Which statement best describes a Controlled Component in React?</p>\n    <ol>\n        <li>a) A component that does not have its own state and is entirely managed by the DOM.</li>\n        <li>b) A self-managing component that maintains its own state without React's involvement.</li>\n        <li>c) A component where its state is directly controlled by React's state and updates on user input.</li>\n        <li>d) A component that uses the useState hook to prevent user input.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) A component where its state is directly controlled by React's state and updates on user input."
+        ],
+        "options": [
+          "a) A component that does not have its own state and is entirely managed by the DOM.",
+          "b) A self-managing component that maintains its own state without React's involvement.",
+          "c) A component where its state is directly controlled by React's state and updates on user input.",
+          "d) A component that uses the useState hook to prevent user input."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) A component where its state is directly controlled by React's state and updates on user input.",
+      "slide": "<div>\n    <h1>Controlled vs Uncontrolled Components</h1>\n    <p>Which statement best describes a Controlled Component in React?</p>\n    <ol>\n        <li>a) A component that does not have its own state and is entirely managed by the DOM.</li>\n        <li>b) A self-managing component that maintains its own state without React's involvement.</li>\n        <li>c) A component where its state is directly controlled by React's state and updates on user input.</li>\n        <li>d) A component that uses the useState hook to prevent user input.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) A component where its state is directly controlled by React's state and updates on user input.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

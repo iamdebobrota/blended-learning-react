@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we're going to unravel the magic of list rendering in React, a popular JavaScript library for building user interfaces. React thrives on components \u2013 they are like the building blocks of a Lego set. Just like you can combine different Lego pieces to create a structure, React components can be combined to build robust applications.\n\nSpecifically, we'll explore how to display lists \u2013 collections of data, such as an array of names, numbers, or objects. Have you ever made a grocery list or a to-do list? In React, we can create similar lists on web pages!\n\nBut how do we show this list to the user? We will use the JavaScript 'map' function, which transforms each item in an array into HTML elements. It's akin to decorating every item on your grocery list with a colorful sticky note to make it stand out!\n\nAlongside, we'll also answer two key questions: How do we uniquely identify each item, and why is it important? This is where 'keys' come in handy. They are like name tags for list items, helping React to efficiently update the user interface.\n\nLastly, we will peek into the Axios library \u2013 a tool that fetches data from the web, like a postman delivers your mail. With Axios, we can grab our list of data from a server and display it in our React application.\n\nBy the end of our class, you'll be equipped to create dynamic lists in React, improving user interaction in the applications you build.",
+      "slide": "<div>\n    <h1>List Rendering in React</h1>\n    <ul>\n        <li><strong>Understanding Components & Lists:</strong>\n            <ul>\n                <li>Components as building blocks</li>\n                <li>Arrays as data lists</li>\n            </ul>\n        </li>\n        <li><strong>Rendering with Map Function:</strong>\n            <ul>\n                <li>Transforming array items to elements</li>\n            </ul>\n        </li>\n        <li><strong>Keys in Lists:</strong>\n            <ul>\n                <li>Name tags for efficient updates</li>\n            </ul>\n        </li>\n        <li><strong>Axios for Data Fetching:</strong>\n            <ul>\n                <li>Fetching external data like a postman</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding Keys in React Lists</h1>\n    <p>Why are 'keys' important when rendering lists in React?</p>\n    <ol>\n        <li>a) They allow React to render items in alphabetical order.</li>\n        <li>b) They enable React to identify which items have changed, been added, or been removed.</li>\n        <li>c) They increase the security of the data in the list.</li>\n        <li>d) They make the list items clickable and interactive.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) They enable React to identify which items have changed, been added, or been removed."
+        ],
+        "options": [
+          "a) They allow React to render items in alphabetical order.",
+          "b) They enable React to identify which items have changed, been added, or been removed.",
+          "c) They increase the security of the data in the list.",
+          "d) They make the list items clickable and interactive."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) They enable React to identify which items have changed, been added, or been removed.",
+      "slide": "<div>\n    <h1>Understanding Keys in React Lists</h1>\n    <p>Why are 'keys' important when rendering lists in React?</p>\n    <ol>\n        <li>a) They allow React to render items in alphabetical order.</li>\n        <li>b) They enable React to identify which items have changed, been added, or been removed.</li>\n        <li>c) They increase the security of the data in the list.</li>\n        <li>d) They make the list items clickable and interactive.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) They enable React to identify which items have changed, been added, or been removed.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

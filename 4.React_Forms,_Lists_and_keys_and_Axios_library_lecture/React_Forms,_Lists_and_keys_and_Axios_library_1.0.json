@@ -1,0 +1,46 @@
+{
+    "scenes": [
+        {
+            "script": "Hello, I'm Debobrota Haldar, and I'll be your instructor for today's lecture that is React Forms, Lists and keys and Axios library. Welcome to today's session on React! React is a powerful JavaScript library used for building user interfaces, particularly single-page applications. Today, we are going to focus on three important aspects: Batch Updates in React for efficient state changes, React Forms and handling user input, Lists and Keys which allow us to render dynamic data collections, and finally, the Axios library to manage our API calls.\n\nImagine you're playing with a deck of cards. Each card change needs attention, much like each piece of state in a React application. Batch updates optimize this process by grouping multiple state changes together, reducing the number of renders and improving performance.\n\nNext up, we'll be creating forms in React. This is similar to filling out a survey, where each response is handled and processed. We will learn how forms manage user inputs, track changes, and submit data.\n\nFurthermore, we need to display lists of items dynamically, like a chef showcases a menu. React uses Keys to identify each unique item, making the rendering process more efficient.\n\nLastly, Axios is like a postal service for the web, it helps us to send and receive data from a server in a structured and simple manner. By the end of this lecture, you should be comfortable using these features in your React applications, making them more dynamic, user-friendly, and responsive.",
+            "slide": "<div>\n    <h1>Optimizing React: Batch Updates, Forms, Lists & Axios</h1>\n    <ul>\n        <li><strong>Batch Updates:</strong>\n            <ul>\n                <li>Grouping state changes for performance</li>\n            </ul>\n        </li>\n        <li><strong>React Forms:</strong>\n            <ul>\n                <li>Handling and submitting user inputs</li>\n            </ul>\n        </li>\n        <li><strong>Lists and Keys:</strong>\n            <ul>\n                <li>Rendering collections efficiently</li>\n            </ul>\n        </li>\n        <li><strong>Axios Library:</strong>\n            <ul>\n                <li>Simplified API calls</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+            "data": null,
+            "type": "explanation"
+        },
+        {
+            "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+            "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+            "data": null,
+            "type": "clarification"
+        },
+        {
+            "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+            "slide": "<div>\n    <h1>React Performance - Batch Updates</h1>\n    <p>Why are batch updates beneficial in a React application?</p>\n    <ol>\n        <li>a) They increase the number of renders for better user experience.</li>\n        <li>b) They allow individual state updates to be postponed indefinitely.</li>\n        <li>c) They group multiple state updates into a single re-render for better performance.</li>\n        <li>d) They prevent state updates from happening at all for maximum stability.</li>\n    </ol>\n</div>",
+            "data": {
+                "answer": [
+                    "c",
+                    "option c",
+                    "c) They group multiple state updates into a single re-render for better performance."
+                ],
+                "options": [
+                    "a) They increase the number of renders for better user experience.",
+                    "b) They allow individual state updates to be postponed indefinitely.",
+                    "c) They group multiple state updates into a single re-render for better performance.",
+                    "d) They prevent state updates from happening at all for maximum stability."
+                ]
+            },
+            "type": "assessment"
+        },
+        {
+            "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+            "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+            "data": null,
+            "type": "feedback"
+        },
+        {
+            "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) They group multiple state updates into a single re-render for better performance.",
+            "slide": "<div>\n    <h1>React Performance - Batch Updates</h1>\n    <p>Why are batch updates beneficial in a React application?</p>\n    <ol>\n        <li>a) They increase the number of renders for better user experience.</li>\n        <li>b) They allow individual state updates to be postponed indefinitely.</li>\n        <li>c) They group multiple state updates into a single re-render for better performance.</li>\n        <li>d) They prevent state updates from happening at all for maximum stability.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) They group multiple state updates into a single re-render for better performance.</h1></div>",
+            "data": null,
+            "type": "revisit"
+        }
+    ]
+}

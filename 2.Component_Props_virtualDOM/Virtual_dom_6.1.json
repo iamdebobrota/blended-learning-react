@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Let's explore a fundamental concept in React: the Virtual DOM. Don't worry if it sounds complex; we'll simplify it for you.\n\nImagine you have a list of tasks to do. Instead of directly updating each task on a physical list, you jot down the changes on a sticky note (the Virtual DOM). Once you're done, you compare this sticky note with the original list, identify the changes, and then update the actual list accordingly. This way, you minimize the effort and time required to update the list.\n\nSimilarly, in React, the Virtual DOM acts as this intermediary between your components and the actual DOM. When you make changes to your components, React first updates the Virtual DOM. Then, it efficiently computes the difference between the Virtual DOM and the actual DOM, and only applies the necessary changes to the real DOM, ensuring optimal performance.\n\nBy using this approach, React manages to provide a smooth and efficient user experience, even with complex and dynamic interfaces.",
+      "slide": "<div>\n    <h1>Understanding the Virtual DOM in React</h1>\n    <ul>\n        <li><strong>What is the Virtual DOM?</strong>\n            <ul>\n                <li>An intermediary representation of the actual DOM</li>\n            </ul>\n        </li>\n        <li><strong>How does it work?</strong>\n            <ul>\n                <li>React maintains a virtual copy of the DOM</li>\n                <li>Changes are made to this virtual copy first</li>\n                <li>Diffing algorithm calculates the minimal changes needed</li>\n                <li>Only necessary updates are applied to the actual DOM</li>\n            </ul>\n        </li>\n        <li><strong>Advantages:</strong>\n            <ul>\n                <li>Improves performance by minimizing DOM updates</li>\n                <li>Ensures a smooth user experience</li>\n                <li>Streamlines development process</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "Let's ensure your understanding of the Virtual DOM is crystal clear. Please indicate your comprehension level by selecting one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Clarifying the Virtual DOM</h1>\n    <h2>Did You Grasp the Concept?</h2>\n    <ul>\n        <li><strong>Options for Response:</strong></li>\n        <ul>\n            <li><strong>Yes, I understood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I need further clarification</strong></li>\n        </ul>\n    </ul>\n    <h2>How to Respond:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the bottom center of the screen.</li>\n        <li>Voice your choice: \"Yes, I got it\", \"Repeat\", or \"Need Clarification\".</li>\n    </ul>\n    <h2>Your Feedback Matters:</h2>\n    <ul>\n        <li>Your input helps us gauge comprehension levels.</li>\n        <li>Feel free to request repetition or additional explanation.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you ready for a quick assessment? Here's a question to test your knowledge.",
+      "slide": "<div>\n    <h1>Virtual DOM Assessment</h1>\n    <p>What is the primary benefit of using the Virtual DOM in React?</p>\n    <ol>\n        <li>a) Direct manipulation of the browser's DOM</li>\n        <li>b) Minimization of expensive DOM operations</li>\n        <li>c) Rendering static content efficiently</li>\n        <li>d) Avoidance of component re-rendering</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) Minimization of expensive DOM operations"
+        ],
+        "options": [
+          "a) Direct manipulation of the browser's DOM",
+          "b) Minimization of expensive DOM operations",
+          "c) Rendering static content efficiently",
+          "d) Avoidance of component re-rendering"
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "Congratulations! You've grasped the essence of the Virtual DOM and its significance in React's architecture. Keep up the great work!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>Well Done!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It seems there might be some confusion, but that's perfectly okay! Let's revisit the material to reinforce our understanding. The correct answer is b) Minimization of expensive DOM operations.",
+      "slide": "<div>\n    <h1>Virtual DOM Assessment</h1>\n    <p>What is the primary benefit of using the Virtual DOM in React?</p>\n    <ol>\n        <li>a) Direct manipulation of the browser's DOM</li>\n        <li>b) Minimization of expensive DOM operations</li>\n        <li>c) Rendering static content efficiently</li>\n        <li>d) Avoidance of component re-rendering</li>\n    </ol>\n</div>\n <div><h1>Answer: b) Minimization of expensive DOM operations</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

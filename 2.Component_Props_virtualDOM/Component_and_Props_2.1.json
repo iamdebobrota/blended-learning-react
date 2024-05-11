@@ -1,0 +1,42 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we're going to look at a key part of React. Specifically, we're going to focus on two types of components that you can create with React: class components and functional components.\n\nFirst, let's talk about class components. These are the bread and butter of React for many years. Class components are more than just the UI; they can also store state \u2014 which is just a fancy term for data that can change over time \u2014 and they come with several 'lifecycle methods'. These methods are like the stages of a lifecycle, allowing you to run code at specific times, such as right before the component appears on the screen, or right before it's removed.\n\nOn the other hand, we have functional components. They started out as the 'simpler' cousins of class components, mainly used for displaying static content. However, with the introduction of hooks in React 16.8, functional components have become just as powerful as class components. Hooks are like a swiss army knife, giving functional components the ability to use state and other React features without writing a class.\n\nIn essence, class components are like skilled workers with a specific set of tools, while functional components are like flexible freelancers who can now rent the same tools for any job they want.\n\nBy the end of our lesson, you'll understand how these two types of components can be used to assemble the interactive web pages that you encounter every day.",
+      "slide": "<div>\n <img src=\"https://i.imgur.com/PpRya1V.png\" style=\"height:200px; width:200px; object-fit:contain;\" />\n   <h1>React Components: Class vs Functional</h1>\n    <ul>\n        <li><strong>Class Components:</strong>\n            <ul>\n                <li>Can manage their own state</li>\n                <li>Access to lifecycle methods</li>\n                <li>Suitable for complex logic</li>\n            </ul>\n        </li>\n        <li><strong>Functional Components:</strong>\n            <ul>\n                <li>Simpler, stateless at first</li>\n                <li>Hooks enable state and lifecycle features</li>\n                <li>Shorter, more readable syntax</li>\n            </ul>\n        </li>\n        <li><strong>Hooks:</strong>\n            <ul>\n                <li>Special functions that extend functional components' capabilities</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>React Component Evolution</h1>\n    <p>Which type of React component originally did not have access to state and lifecycle methods, but now can use them with hooks?</p>\n    <ol>\n        <li>a) Pure Components</li>\n        <li>b) Stateless Components</li>\n        <li>c) Class Components</li>\n        <li>d) Functional Components</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": ["d", "option d", "d) Functional Components"],
+        "options": [
+          "a) Pure Components",
+          "b) Stateless Components",
+          "c) Class Components",
+          "d) Functional Components"
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is d) Functional Components",
+      "slide": "<div>\n    <h1>React Component Evolution</h1>\n    <p>Which type of React component originally did not have access to state and lifecycle methods, but now can use them with hooks?</p>\n    <ol>\n        <li>a) Pure Components</li>\n        <li>b) Stateless Components</li>\n        <li>c) Class Components</li>\n        <li>d) Functional Components</li>\n    </ol>\n</div>\n <div><h1>Answer:- d) Functional Components</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

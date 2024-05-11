@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Welcome to our lesson on state management in React! Today, we're going to unravel the mystery behind Controlled and Uncontrolled Components. Imagine you're at a concert. In a controlled environment, the sound engineer adjusts every note and beat, creating the perfect audio experience. Similarly, a Controlled Component is like that sound engineer, ensuring the form data is handled by React\u2019s state. \n\nConversely, Uncontrolled Components are like an impromptu jam session \u2013 no one is steering the ship, and the DOM itself manages the data. It\u2019s freestyle with fewer restrictions, but also less predictable. We will also learn how to harness React's useState hook, which lets us keep track of state in our functional components, much like a maestro keeping time in an orchestra, ensuring harmony and coordination.\n\nBy the end of this session, you'll be able to decide when to use controlled or uncontrolled components and manage state in your React applications with confidence and finesse.",
+      "slide": "<div>\n    <h1>State Management in React</h1>\n    <ul>\n        <li><strong>Controlled Components:</strong>\n            <ul>\n                <li>Form data is controlled by React</li>\n            </ul>\n        </li>\n        <li><strong>Uncontrolled Components:</strong>\n            <ul>\n                <li>Form data is controlled by the DOM</li>\n            </ul>\n        </li>\n        <li><strong>useState Hook:</strong>\n            <ul>\n                <li>Tracks state in functional components</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Controlled vs. Uncontrolled Components</h1>\n    <p>Which of the following is true about Controlled Components in React?</p>\n    <ol>\n        <li>a) They do not require state management with useState.</li>\n        <li>b) They rely on the DOM to manage their state.</li>\n        <li>c) They manage the form state via React state, using props like value or checked.</li>\n        <li>d) They allow direct modification of the component's state without React's involvement.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) They manage the form state via React state, using props like value or checked."
+        ],
+        "options": [
+          "a) They do not require state management with useState.",
+          "b) They rely on the DOM to manage their state.",
+          "c) They manage the form state via React state, using props like value or checked.",
+          "d) They allow direct modification of the component's state without React's involvement."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) They manage the form state via React state, using props like value or checked.",
+      "slide": "<div>\n    <h1>Controlled vs. Uncontrolled Components</h1>\n    <p>Which of the following is true about Controlled Components in React?</p>\n    <ol>\n        <li>a) They do not require state management with useState.</li>\n        <li>b) They rely on the DOM to manage their state.</li>\n        <li>c) They manage the form state via React state, using props like value or checked.</li>\n        <li>d) They allow direct modification of the component's state without React's involvement.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) They manage the form state via React state, using props like value or checked.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

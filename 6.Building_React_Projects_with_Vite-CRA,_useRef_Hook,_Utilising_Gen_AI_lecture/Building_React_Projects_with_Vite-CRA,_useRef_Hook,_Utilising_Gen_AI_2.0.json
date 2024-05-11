@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today\u2019s session, we\u2019ll delve into the modern and efficient approach to building React projects using Vite as compared to Create React App (CRA). Imagine constructing a building. Vite is like using the latest technology to quickly erect the scaffolding and structure, significantly speeding up the development process.\n\nWe'll also explore the useRef Hook in React, which is akin to having a personal assistant who remembers important information without interfering with the main tasks. useRef allows us to persistently hold onto values throughout the lifecycle of a component.\n\nAdditionally, we're going to look at how Generative AI can supercharge our development process in React. Think of Generative AI as a master artist who can create custom designs and functionalities based on the patterns she learns from massive datasets.\n\nBy the end of this lecture, you'll have a clear understanding of how Vite accelerates project setup, the capabilities of the useRef Hook for managing references in your components, and how Generative AI has the potential to revolutionize the way we develop in React.",
+      "slide": "<div>\n  <h1>Building React Projects with Vite & useRef Hook</h1>\n  <ul>\n    <li><strong>Introducing Vite:</strong>\n      <ul>\n        <li>Fast development startup and an alternative to CRA</li>\n      </ul>\n    </li>\n    <li><strong>Understanding useRef Hook:</strong>\n      <ul>\n        <li>Manages component references without re-rendering</li>\n      </ul>\n    </li>\n    <li><strong>Utilizing Generative AI in React:</strong>\n      <ul>\n        <li>Enhance development through AI-powered code generation</li>\n      </ul>\n    </li>\n  </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n  <h1>Understanding useRef in React</h1>\n  <p>What is the purpose of the useRef Hook in React?</p>\n  <ol>\n    <li>a) To update the state of a component and trigger a re-render.</li>\n    <li>b) To persist values across renders without triggering a re-render.</li>\n    <li>c) To manage complex state logic in a component.</li>\n    <li>d) To optimize performance by preventing component from mounting.</li>\n  </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) To persist values across renders without triggering a re-render."
+        ],
+        "options": [
+          "a) To update the state of a component and trigger a re-render.",
+          "b) To persist values across renders without triggering a re-render.",
+          "c) To manage complex state logic in a component.",
+          "d) To optimize performance by preventing component from mounting."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) To persist values across renders without triggering a re-render.",
+      "slide": "<div>\n  <h1>Understanding useRef in React</h1>\n  <p>What is the purpose of the useRef Hook in React?</p>\n  <ol>\n    <li>a) To update the state of a component and trigger a re-render.</li>\n    <li>b) To persist values across renders without triggering a re-render.</li>\n    <li>c) To manage complex state logic in a component.</li>\n    <li>d) To optimize performance by preventing component from mounting.</li>\n  </ol>\n</div>\n <div><h1>Answer:- b) To persist values across renders without triggering a re-render.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

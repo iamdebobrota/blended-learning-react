@@ -1,0 +1,42 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we're going to explore how to make our web applications smarter and more dynamic using Conditional Rendering and Styling techniques in React. Now, imagine you've got a magic book that can show you different stories based on your mood. If you're happy, it shows comedies; if you're sad, it flips to heartfelt stories. Conditional Rendering in React works like that magic book. It allows parts of our application to show up or vanish depending on certain conditions. \n\nOn top of that, imagine you could change the color of the book's cover to match your mood too. With Styling in React, we can! We can change the style of components, like their color, size, or font, based on different conditions, making our application not just functional, but also appealing. By the end of this lecture, you'll be able to create a great user experience by showing users only what they need to see, and making it look good too. Let's get started and add some magic to our React applications!",
+      "slide": "<div>\n    <h1>Conditional Rendering & Styling in React</h1>\n    <ul>\n        <li><strong>Understanding Conditional Rendering:</strong>\n            <ul>\n                <li>Switch between different components based on conditions</li>\n            </ul>\n        </li>\n        <li><strong>Dynamic Styling Techniques:</strong>\n            <ul>\n                <li>Change styles based on state or props</li>\n            </ul>\n        </li>\n        <li><strong>Enhancing User Experience:</strong>\n            <ul>\n                <li>Create intuitive and visually engaging components</li>\n            </ul>\n        </li>\n    </ul>\n  <img src=\"https://i.imgur.com/i2LlWF3.png\" style=\"height:200px; width:200px; object-fit:contain;\" />\n  </div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>React Styling Techniques</h1>\n    <p>In React, what do you use to change the appearance of a component based on its state?</p>\n    <ol>\n        <li>a) Event handlers</li>\n        <li>b) Lifecycle methods</li>\n        <li>c) Conditional styling</li>\n        <li>d) Data fetching mechanisms</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": ["c", "option c", "c) Conditional styling"],
+        "options": [
+          "a) Event handlers",
+          "b) Lifecycle methods",
+          "c) Conditional styling",
+          "d) Data fetching mechanisms"
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) Conditional styling",
+      "slide": "<div>\n    <h1>React Styling Techniques</h1>\n    <p>In React, what do you use to change the appearance of a component based on its state?</p>\n    <ol>\n        <li>a) Event handlers</li>\n        <li>b) Lifecycle methods</li>\n        <li>c) Conditional styling</li>\n        <li>d) Data fetching mechanisms</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) Conditional styling</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

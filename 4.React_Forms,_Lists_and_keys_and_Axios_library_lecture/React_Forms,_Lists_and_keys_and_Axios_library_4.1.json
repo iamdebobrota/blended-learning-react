@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Hello bright minds! Today we're going to delve into the practical and powerful tools within React and the Axios library to enhance your web development skills. React allows you to build dynamic web applications with ease, and when combined with Axios, a popular library for making HTTP requests, you get a supercharged development experience.\n\nWe will start by looking at React forms which are essential for capturing user inputs efficiently. Then, we'll learn how to display lists of data smoothly with React's unique key props system that optimizes rendering and ensures your app runs fast and smooth. Afterward, we will introduce Axios for making network requests to fetch, post, or manipulate data on servers.\n\nBy utilizing a simple yet powerful tool like JSON Server, we will simulate a real backend for our exercises, giving you a near-real experience of working with APIs. After our session, you'll be equipped to create more interactive and responsive web applications that feel seamless to users. Let's get started and unlock these new skills together!",
+      "slide": "<div>\n    <h1>React Forms, Lists, Keys & Axios Library</h1>\n    <ul>\n        <li><strong>React Forms:</strong>\n            <ul>\n                <li>Capturing user inputs made simple</li>\n            </ul>\n        </li>\n        <li><strong>Lists and Keys:</strong>\n            <ul>\n                <li>Rendering lists with optimized performance</li>\n            </ul>\n        </li>\n        <li><strong>Axios & JSON Server:</strong>\n            <ul>\n                <li>Making network requests to a simulated backend</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding React's Keys</h1>\n    <p>Why are keys important in a React list?</p>\n    <ol>\n        <li>a) They help React identify which items have changed, are added, or are removed.</li>\n        <li>b) They are used to improve the design and style of the list.</li>\n        <li>c) They represent the network status of list items.</li>\n        <li>d) They secure the data transmission between the client and the server.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "a",
+          "option a",
+          "a) They help React identify which items have changed, are added, or are removed."
+        ],
+        "options": [
+          "a) They help React identify which items have changed, are added, or are removed.",
+          "b) They are used to improve the design and style of the list.",
+          "c) They represent the network status of list items.",
+          "d) They secure the data transmission between the client and the server."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is a) They help React identify which items have changed, are added, or are removed.",
+      "slide": "<div>\n    <h1>Understanding React's Keys</h1>\n    <p>Why are keys important in a React list?</p>\n    <ol>\n        <li>a) They help React identify which items have changed, are added, or are removed.</li>\n        <li>b) They are used to improve the design and style of the list.</li>\n        <li>c) They represent the network status of list items.</li>\n        <li>d) They secure the data transmission between the client and the server.</li>\n    </ol>\n</div>\n <div><h1>Answer:- a) They help React identify which items have changed, are added, or are removed.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

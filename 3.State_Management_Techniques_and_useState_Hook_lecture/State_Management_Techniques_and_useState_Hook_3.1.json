@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we're going to understand a crucial part of building interactive web applications\u2014state management using React and the useState hook. For any aspiring web developer, grasping the concept of state management is like learning to control the heartbeat of an application.\n\nImagine you're playing a video game, and you have a scoreboard that updates every time you earn points. In React, the scoreboard's number is part of the 'state' of your game. Every time your score changes, React needs to know about it to update your display. That's state management\u2014keeping track of these changes.\n\nThe useState hook is like a magic tool in a wizard's spellbook. It lets us store and update the state within our functional components. Think of it as a special spell that can freeze a moment in time, remember it, and change it when needed.\n\nBy the end of our lesson, you will gain the knowledge to wield the useState hook like a pro, effectively managing the state in your web applications. Let us embark on this journey to understand the pulse of React components and bring our applications to life.",
+      "slide": "<div>\n    <h1>State Management in React</h1>\n    <ul>\n        <li><strong>Understanding State:</strong>\n            <ul>\n                <li>Like the live scoreboard in a game</li>\n            </ul>\n        </li>\n        <li><strong>What is useState hook:</strong>\n            <ul>\n                <li>A way to 'freeze' and update component's state</li>\n            </ul>\n        </li>\n        <li><strong>Managing State:</strong>\n            <ul>\n                <li>Essential for dynamic applications</li>\n            </ul>\n        </li>\n        <li><strong>Practical Usage:</strong>\n            <ul>\n                <li>How useState fits in real-world scenarios</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding useState Hook</h1>\n    <p>What does the useState hook in React allow a developer to do?</p>\n    <ol>\n        <li>a) Connect to a database and fetch data.</li>\n        <li>b) Create a new HTML element in the document.</li>\n        <li>c) Store and update state within a functional component.</li>\n        <li>d) Send emails directly from a web application.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) Store and update state within a functional component."
+        ],
+        "options": [
+          "a) Connect to a database and fetch data.",
+          "b) Create a new HTML element in the document.",
+          "c) Store and update state within a functional component.",
+          "d) Send emails directly from a web application."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) Store and update state within a functional component.",
+      "slide": "<div>\n    <h1>Understanding useState Hook</h1>\n    <p>What does the useState hook in React allow a developer to do?</p>\n    <ol>\n        <li>a) Connect to a database and fetch data.</li>\n        <li>b) Create a new HTML element in the document.</li>\n        <li>c) Store and update state within a functional component.</li>\n        <li>d) Send emails directly from a web application.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) Store and update state within a functional component.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

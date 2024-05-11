@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today we're going to look into a crucial aspect of React, a JavaScript library for building user interfaces \u2013 we are talking about the Component Lifecycle, Side Effects, and the useEffect Hook. These are features that help manage and understand how your components behave across their lifespan within your application.\n\nImagine a component as a person going through different stages of life - each stage represents a phase in the lifecycle of a React component. The useEffect Hook, in particular, is like scheduling daily tasks, such as calling friends or going to the gym. It allows you to perform side effects in your components, which are operations that can affect other components or cannot be done during rendering.\n\nThe 'Cleanup' is an essential part of useEffect, which is like cleaning up after dinner, ensuring that things remain in order for the next day. Cleanup functions in React help prevent memory leaks and other issues by cleaning up resources used by the component before it's unmounted or before the useEffect runs again.\n\nBy the end of this talk, you'll have a clear understanding of how to use the useEffect Hook effectively for handling side effects, how to clean them up, and how this all plays a vital role during the update phase of a component\u2019s lifecycle.",
+      "slide": "<div>\n    <h1>Understanding useEffect and Cleanups in React</h1>\n    <ul>\n        <li><strong>Component Lifecycle:</strong>\n            <ul>\n                <li>Phases of component creation, update, and removal</li>\n            </ul>\n        </li>\n        <li><strong>Side Effects:</strong>\n            <ul>\n                <li>Operations affecting other components or requiring cleanup</li>\n            </ul>\n        </li>\n        <li><strong>useEffect Hook:</strong>\n            <ul>\n                <li>Managing side effects in functional components</li>\n                <li>Includes dependency array and cleanup function</li>\n            </ul>\n        </li>\n        <li><strong>Cleanup:</strong>\n            <ul>\n                <li>Prevents memory leaks and prepares for re-execution of effects</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Cleanup in useEffect Hook</h1>\n    <p>What is the purpose of a cleanup function in the useEffect Hook in React components?</p>\n    <ol>\n        <li>a) To increase performance by minimizing component re-renders.</li>\n        <li>b) To reset the component's state to its initial values.</li>\n        <li>c) To prevent memory leaks by cleaning up before the component unmounts or the useEffect runs again.</li>\n        <li>d) To duplicate the component for backup purposes.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) To prevent memory leaks by cleaning up before the component unmounts or the useEffect runs again."
+        ],
+        "options": [
+          "a) To increase performance by minimizing component re-renders.",
+          "b) To reset the component's state to its initial values.",
+          "c) To prevent memory leaks by cleaning up before the component unmounts or the useEffect runs again.",
+          "d) To duplicate the component for backup purposes."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) To prevent memory leaks by cleaning up before the component unmounts or the useEffect runs again.",
+      "slide": "<div>\n    <h1>Cleanup in useEffect Hook</h1>\n    <p>What is the purpose of a cleanup function in the useEffect Hook in React components?</p>\n    <ol>\n        <li>a) To increase performance by minimizing component re-renders.</li>\n        <li>b) To reset the component's state to its initial values.</li>\n        <li>c) To prevent memory leaks by cleaning up before the component unmounts or the useEffect runs again.</li>\n        <li>d) To duplicate the component for backup purposes.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) To prevent memory leaks by cleaning up before the component unmounts or the useEffect runs again.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

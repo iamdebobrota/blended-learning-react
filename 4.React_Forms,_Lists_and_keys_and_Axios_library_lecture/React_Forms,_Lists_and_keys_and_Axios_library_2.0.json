@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we're going to unravel the process of handling lists in React\u2014one of the most popular JavaScript libraries for building user interfaces. React makes it incredibly efficient to manage and render dynamic lists of elements, a common task in web development.\n\nImagine walking into a grocery store with a shopping list. This list helps you remember and manage the items you need to buy. Similarly, in React, we manage lists of data using arrays and render them on the web page dynamically.\n\nTo display these items, we\u2019ll use the special 'map' function available in JavaScript, which is like telling React how to go through each item on our list and what to do with it. This concept is crucial, as it forms the backbone of displaying data like products, messages, or any other content in your application.\n\nReact also introduces something called 'keys' which are like ID tags for list items, ensuring that each one is unique and helping React keep track of any changes. These keys are vital for performance and must be used when rendering lists.\n\nLastly, we'll touch on Axios, a powerful library used to make HTTP requests to external resources like APIs. Think of it like sending out a little helper from our app to bring back the data we need, such as a list of users or products, from a server.\n\nBy the end of this session, you'll understand how to use React to gracefully handle dynamic lists, how to employ keys for optimal rendering, and how to fetch data using Axios. These skills are essential for creating interactive and efficient web applications.",
+      "slide": "<div>\n    <h1>Rendering Lists in React</h1>\n    <ul>\n        <li><strong>Working with Arrays:</strong>\n            <ul>\n                <li>Using 'map' to render list items</li>\n            </ul>\n        </li>\n        <li><strong>Keys in Lists:</strong>\n            <ul>\n                <li>Unique 'key' props for list items</li>\n            </ul>\n        </li>\n        <li><strong>Axios for Data Fetching:</strong>\n            <ul>\n                <li>Using Axios to make API requests</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding Keys in React Lists</h1>\n    <p>Why are 'keys' important when rendering a list of items in React?</p>\n    <ol>\n        <li>a) They ensure each list item is styled correctly.</li>\n        <li>b) They are used to secure the list against external threats.</li>\n        <li>c) They help React identify which items have changed, are added, or are removed.</li>\n        <li>d) They optimize the performance of list rendering by reducing the file size.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) They help React identify which items have changed, are added, or are removed."
+        ],
+        "options": [
+          "a) They ensure each list item is styled correctly.",
+          "b) They are used to secure the list against external threats.",
+          "c) They help React identify which items have changed, are added, or are removed.",
+          "d) They optimize the performance of list rendering by reducing the file size."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) They help React identify which items have changed, are added, or are removed.",
+      "slide": "<div>\n    <h1>Understanding Keys in React Lists</h1>\n    <p>Why are 'keys' important when rendering a list of items in React?</p>\n    <ol>\n        <li>a) They ensure each list item is styled correctly.</li>\n        <li>b) They are used to secure the list against external threats.</li>\n        <li>c) They help React identify which items have changed, are added, or are removed.</li>\n        <li>d) They optimize the performance of list rendering by reducing the file size.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) They help React identify which items have changed, are added, or are removed.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

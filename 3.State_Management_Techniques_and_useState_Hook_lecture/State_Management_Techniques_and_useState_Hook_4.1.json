@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we're going to unravel the mysteries of State Management in modern web applications, focusing on a powerful feature in React, known as the useState hook. Imagine you are at a party, and you have a personal assistant who keeps track of everything you need - your conversations, the food you like, the number of drinks you've had - this is akin to state management. It\u2019s how we keep track of our application\u2019s needs at any given time.\n\nThe useState hook is a special tool provided by React, a popular JavaScript library, to deal with this state management efficiently. Like a personal notepad, the useState hook allows us to store and update small pieces of information, which reflect upon our application and cause it to behave accordingly.\n\nBy the end of this lecture, you'll have a clear understanding of the importance of state management in web applications and how to utilize the useState hook to build interactive and dynamic user interfaces.",
+      "slide": "<div>\n    <h1>Understanding State Management and useState Hook</h1>\n    <ul>\n        <li><strong>What is State Management?</strong>\n            <ul>\n                <li>Tracking application data during interaction</li>\n            </ul>\n        </li>\n        <li><strong>Importance:</strong>\n            <ul>\n                <li>Crucial for dynamic and interactive UIs</li>\n            </ul>\n        </li>\n        <li><strong>useState Hook:</strong>\n            <ul>\n                <li>A tool for state management in React applications</li>\n            </ul>\n        </li>\n        <li><strong>Benefits:</strong>\n            <ul>\n                <li>Simple and powerful state updating mechanism</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>useState Hook in React</h1>\n    <p>What role does the useState hook play in a React web application?</p>\n    <ol>\n        <li>a) It compiles the JSX code into JavaScript.</li>\n        <li>b) It allows developers to write CSS directly within JavaScript files.</li>\n        <li>c) It provides a way to store and update component-specific state.</li>\n        <li>d) It communicates with the server to retrieve data.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) It provides a way to store and update component-specific state."
+        ],
+        "options": [
+          "a) It compiles the JSX code into JavaScript.",
+          "b) It allows developers to write CSS directly within JavaScript files.",
+          "c) It provides a way to store and update component-specific state.",
+          "d) It communicates with the server to retrieve data."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) It provides a way to store and update component-specific state.",
+      "slide": "<div>\n    <h1>useState Hook in React</h1>\n    <p>What role does the useState hook play in a React web application?</p>\n    <ol>\n        <li>a) It compiles the JSX code into JavaScript.</li>\n        <li>b) It allows developers to write CSS directly within JavaScript files.</li>\n        <li>c) It provides a way to store and update component-specific state.</li>\n        <li>d) It communicates with the server to retrieve data.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) It provides a way to store and update component-specific state.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

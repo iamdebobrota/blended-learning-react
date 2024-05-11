@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we will delve into the interactive aspects of web applications by learning about React's batch updates, forms, lists and keys, as well as the Axios library. React is like a smart artist who knows the best way to efficiently update a canvas, and this is where batch updates come into the picture\u2014they allow React to perform multiple state updates in a single go, reducing the number of re-renders and thus, optimizing performance.\n\nNow, imagine filling a questionnaire. In the web world, that's where forms come into play. Forms in React help us collect user input, and we'll learn how to handle them effectively. Just like an organized folder, lists and keys allow React to maintain order and track changes within lists of elements, ensuring smooth updates and interactions.\n\nLastly, think of the Axios library as a friendly mail carrier. It helps our application to communicate with external services to send and receive data, much like sending and receiving letters. By the end of our lecture, you'll be equipped to create dynamic and responsive user interfaces and communicate with APIs like a pro.",
+      "slide": "<div>\n    <h1>React's Batch Updates, Forms, Lists & Keys, and Axios</h1>\n    <ul>\n        <li><strong>Batch Updates:</strong>\n            <ul>\n                <li>Improves performance by grouping multiple state updates</li>\n            </ul>\n        </li>\n        <li><strong>React Forms:</strong>\n            <ul>\n                <li>Handles user input and form submission</li>\n            </ul>\n        </li>\n        <li><strong>Lists & Keys:</strong>\n            <ul>\n                <li>Manages dynamic lists and maintains order in UI changes</li>\n            </ul>\n        </li>\n        <li><strong>Axios Library:</strong>\n            <ul>\n                <li>Facilitates communication with external APIs</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding Lists & Keys in React</h1>\n    <p>What is the main purpose of using keys in lists in React?</p>\n    <ol>\n        <li>a) To enhance CSS styling for list items.</li>\n        <li>b) To increase the rendering speed of list items.</li>\n        <li>c) To help React identify which items have changed, been added, or removed.</li>\n        <li>d) To encrypt data within list items for security purposes.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) To help React identify which items have changed, been added, or removed."
+        ],
+        "options": [
+          "a) To enhance CSS styling for list items.",
+          "b) To increase the rendering speed of list items.",
+          "c) To help React identify which items have changed, been added, or removed.",
+          "d) To encrypt data within list items for security purposes."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) To help React identify which items have changed, been added, or removed.",
+      "slide": "<div>\n    <h1>Understanding Lists & Keys in React</h1>\n    <p>What is the main purpose of using keys in lists in React?</p>\n    <ol>\n        <li>a) To enhance CSS styling for list items.</li>\n        <li>b) To increase the rendering speed of list items.</li>\n        <li>c) To help React identify which items have changed, been added, or removed.</li>\n        <li>d) To encrypt data within list items for security purposes.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) To help React identify which items have changed, been added, or removed.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

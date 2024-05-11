@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today's session is like embarking on an adventure into the world of React, a popular JavaScript library for building user interfaces. Our focus will be on a tool called Create React App, which is the equivalent of a trusty backpack that carries all the essentials you need for your journey into development.\n\nWhy use Create React App? Imagine you're going on a hike. Sure, you could gather all the gear yourself\u2014map, boots, supplies\u2014but it's far easier if you have a pre-packed backpack with everything you need. Create React App sets up your development environment, providing a standard structure for your project, including configurations for bundling, linting, and development server. You can start creating immediately, without getting bogged down in setup details.\n\nAnd how do we use it? Well, it's surprisingly straightforward. With a few commands in your terminal, you can create a new React project that's ready to be shaped into your vision. It's as easy as choosing your path on a well-marked trail.\n\nAs we move throughout this lecture, we'll explore how components in React have a lifecycle, akin to seasons in a year, each with its own purpose and activities. Then, we'll learn about side effects\u2014actions that take place outside the local scope of the function\u2014akin to a hiker interacting with the environment. Finally, we'll introduce the useEffect hook, a powerful ally that lets us manage these side effects in our React components like a skilled navigator.\n\nBy the end of this journey, you'll understand why Create React App is your starting point for React projects and how to effectively use React's component lifecycle and the useEffect hook to create engaging and dynamic web experiences.",
+      "slide": "<div>\n    <h1>Why and How to Use Create React App</h1>\n    <ul>\n        <li><strong>Create React App:</strong>\n            <ul>\n                <li>One-stop setup for React development</li>\n                <li>Simplifies project configuration</li>\n            </ul>\n        </li>\n        <li><strong>Component Lifecycle:</strong>\n            <ul>\n                <li>Each phase of a component's existence</li>\n            </ul>\n        </li>\n        <li><strong>Side Effects:</strong>\n            <ul>\n                <li>Actions outside local function scope</li>\n            </ul>\n        </li>\n        <li><strong>useEffect Hook:</strong>\n            <ul>\n                <li>Effectively manage side effects</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding Create React App</h1>\n    <p>What is the main purpose of using Create React App in React development?</p>\n    <ol>\n        <li>a) To simplify the creation and configuration of a new React project.</li>\n        <li>b) To write backend server code for React applications.</li>\n        <li>c) To manually set up build configurations and toolchains.</li>\n        <li>d) To enhance the React library with additional components.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "a",
+          "option a",
+          "a) To simplify the creation and configuration of a new React project."
+        ],
+        "options": [
+          "a) To simplify the creation and configuration of a new React project.",
+          "b) To write backend server code for React applications.",
+          "c) To manually set up build configurations and toolchains.",
+          "d) To enhance the React library with additional components."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is a) To simplify the creation and configuration of a new React project.",
+      "slide": "<div>\n    <h1>Understanding Create React App</h1>\n    <p>What is the main purpose of using Create React App in React development?</p>\n    <ol>\n        <li>a) To simplify the creation and configuration of a new React project.</li>\n        <li>b) To write backend server code for React applications.</li>\n        <li>c) To manually set up build configurations and toolchains.</li>\n        <li>d) To enhance the React library with additional components.</li>\n    </ol>\n</div>\n <div><h1>Answer:- a) To simplify the creation and configuration of a new React project.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

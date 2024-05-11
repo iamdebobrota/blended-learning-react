@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Welcome to a foundational concept that bridges design patterns and component architecture in modern web development \u2013 Children Props in React. Now, Children Props might sound like something intricate, but fear not; we're going to break it down into simple parts.\n\nConsider a toy box; it can contain an assortment of toys. In React, 'children' is like that toy box, which can include any number of components arranged inside a parent component. This allows us to create versatile structures where the encapsulating parent doesn't need to know what's inside the children.\n\nNow, talking about higher-order components (HOCs), imagine a school bus. The bus is a vehicle designed to transport any number of students \u2013 that could be you! Here, the bus is the HOC that 'wraps' around the students, enabling additional functionalities like picking up students from multiple locations.\n\nUsing the 'children' keyword in React, we create HOCs by passing the 'children' prop to wrap around any component, thereby creating a new component with additional powers. Essentially, it's like giving the school bus a GPS system to navigate through city traffic more effectively.\n\nBy the end of this lesson, you\u2019ll understand how Children Props can be leveraged to compose complex interfaces flexibly and how they are crucial in creating HOCs in React.",
+      "slide": "<div>\n    <h1>Understanding Children Props and Higher-Order Components (HOCs)</h1>\n    <ul>\n        <li><strong>Children Props in React:</strong>\n            <ul>\n                <li>Acts like a container that can hold any content or React components</li>\n            </ul>\n        </li>\n        <li><strong>Higher-Order Components (HOCs):</strong>\n            <ul>\n                <li>Reusable function that takes a component and returns a new component</li>\n            </ul>\n        </li>\n        <li><strong>Using 'children' Keyword:</strong>\n            <ul>\n                <li>Pass 'children' prop to create flexible and reusable component structures</li>\n            </ul>\n        </li>\n        <li><strong>Advantage of HOCs:</strong>\n            <ul>\n                <li>Enhances components with additional functionalities and logic</li>\n            </ul>\n        </li>\n    </ul>\n  <img src=\"https://i.imgur.com/SE6JHuD.png\" style=\"height:200px; width:200px; object-fit:contain;\" />\n  </div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Role of Children Props in React</h1>\n    <p>What is the primary purpose of 'children' props in React components?</p>\n    <ol>\n        <li>a) To specify the HTML child elements of a component.</li>\n        <li>b) To pass data to the component's internal state.</li>\n        <li>c) To hold and render any JSX or components passed between the opening and closing tags of a parent component.</li>\n        <li>d) To increase the performance of React applications.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) To hold and render any JSX or components passed between the opening and closing tags of a parent component."
+        ],
+        "options": [
+          "a) To specify the HTML child elements of a component.",
+          "b) To pass data to the component's internal state.",
+          "c) To hold and render any JSX or components passed between the opening and closing tags of a parent component.",
+          "d) To increase the performance of React applications."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) To hold and render any JSX or components passed between the opening and closing tags of a parent component.",
+      "slide": "<div>\n    <h1>Role of Children Props in React</h1>\n    <p>What is the primary purpose of 'children' props in React components?</p>\n    <ol>\n        <li>a) To specify the HTML child elements of a component.</li>\n        <li>b) To pass data to the component's internal state.</li>\n        <li>c) To hold and render any JSX or components passed between the opening and closing tags of a parent component.</li>\n        <li>d) To increase the performance of React applications.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) To hold and render any JSX or components passed between the opening and closing tags of a parent component.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

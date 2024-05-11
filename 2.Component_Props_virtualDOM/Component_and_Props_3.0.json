@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today\u2019s session, we will grasp the concept of props in React, a powerful tool for managing data flow in component-based architecture. Imagine React components as people living in an apartment building. Each resident has certain items, like furniture, that they use daily, representing the state that belongs to that specific component. But sometimes, they need to borrow a vacuum cleaner from their upstairs neighbor. Props, in this analogy, are like the stairways or elevators that enable the passing of the vacuum cleaner from one apartment to another.\n\nProps, which stands for 'properties,' allow us to pass data from a parent component to a child component. This is akin to giving specific instructions to a friend when lending them something \u2013 for instance, 'You can use my drill, but please keep it on the slow setting.' In React, props help us specify what the child component should use or display and how it should behave.\n\nAs we explore further, we will learn how this straightforward concept helps maintain organized and predictable data flow in React applications, much like how clear communication ensures that borrowed items are used properly and returned on time in our apartment building scenario.",
+      "slide": "<div>\n  <h1>Understanding Props in React</h1>\n    <ul>\n        <li><strong>What are Props?</strong>\n            <ul>\n                <li>Means for passing data between components</li>\n            </ul>\n        </li>\n        <li><strong>Props in Action:</strong>\n            <ul>\n                <li>Passing data from parent to child components</li>\n            </ul>\n        </li>\n        <li><strong>Analogies:</strong>\n            <ul>\n                <li>Lending items with instructions, like props passing values and behaviors</li>\n            </ul>\n        </li>\n        <li><strong>Outcome:</strong>\n            <ul>\n                <li>Organized and predictable data flow within components</li>\n            </ul>\n        </li>\n    </ul>\n <img src=\"https://i.imgur.com/M5VZZsJ.png\" style=\"height:200px; width:200px; object-fit:contain;\" />\n  </div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Props in React</h1>\n    <p>In React, what is the primary purpose of props?</p>\n    <ol>\n        <li>a) To maintain the internal state of a component.</li>\n        <li>b) To execute functions within the component.</li>\n        <li>c) To pass data and instructions from a parent component to a child component.</li>\n        <li>d) To style the component with CSS classes.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) To pass data and instructions from a parent component to a child component."
+        ],
+        "options": [
+          "a) To maintain the internal state of a component.",
+          "b) To execute functions within the component.",
+          "c) To pass data and instructions from a parent component to a child component.",
+          "d) To style the component with CSS classes."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) To pass data and instructions from a parent component to a child component.",
+      "slide": "<div>\n    <h1>Props in React</h1>\n    <p>In React, what is the primary purpose of props?</p>\n    <ol>\n        <li>a) To maintain the internal state of a component.</li>\n        <li>b) To execute functions within the component.</li>\n        <li>c) To pass data and instructions from a parent component to a child component.</li>\n        <li>d) To style the component with CSS classes.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) To pass data and instructions from a parent component to a child component.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

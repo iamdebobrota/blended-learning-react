@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we'll be demystifying a critical concept in the world of web development with React \u2013 Components. Much like building a house requires different materials such as bricks, wood, and glass, constructing a React application involves creating and combining different parts, which we call Components.\n\nComponents are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML via a render function. Imagine them as custom, reusable HTML elements that you can use throughout your application.\n\nThe beauty of Components lies in their modularity and reusability. Instead of writing a massive, tangled web of code, you can break down your UI into manageable, self-contained pieces. Each piece, or component, has its own logic and controls its own rendering, similar to puzzle pieces that fit together but are individually complete.\n\nBy the end of today's lecture, you will grasp why Components are such a game-changer in React applications, making code more manageable, easier to maintain, and much more scalable.",
+      "slide": "<div>\n    <h1>Understanding Components in React</h1>\n    <ul>\n        <li><strong>What are React Components?</strong>\n            <ul>\n                <li>Independent, reusable pieces of code</li>\n                <li>Work like JavaScript functions but return HTML</li>\n            </ul>\n        </li>\n        <li><strong>Key Features:</strong>\n            <ul>\n                <li>Modularity and Reusability</li>\n                <li>Manageable and Self-Contained</li>\n            </ul>\n        </li>\n        <li><strong>Benefits:</strong>\n            <ul>\n                <li>Makes code manageable, maintainable, and scalable</li>\n            </ul>\n        </li>\n    </ul>\n  <img src=\"https://i.imgur.com/0gDlPmA.png\" style=\"height:200px; width:200px; object-fit:contain;\" />\n </div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Advantages of React Components</h1>\n    <p>What is a significant advantage of using Components in React applications?</p>\n    <ol>\n        <li>a) To make the application run faster.</li>\n        <li>b) To enhance the security of the application.</li>\n        <li>c) To create a single, unbreakable monolithic app.</li>\n        <li>d) To enable modularity and reusability of code.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "d",
+          "option d",
+          "d) To enable modularity and reusability of code"
+        ],
+        "options": [
+          "a) To make the application run faster",
+          "b) To enhance the security of the application",
+          "c) To create a single, unbreakable monolithic app",
+          "d) To enable modularity and reusability of code"
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is d) To enable modularity and reusability of code",
+      "slide": "<div>\n    <h1>Advantages of React Components</h1>\n    <p>What is a significant advantage of using Components in React applications?</p>\n    <ol>\n        <li>a) To make the application run faster.</li>\n        <li>b) To enhance the security of the application.</li>\n        <li>c) To create a single, unbreakable monolithic app.</li>\n        <li>d) To enable modularity and reusability of code.</li>\n    </ol>\n</div>\n <div><h1>Answer:- d) To enable modularity and reusability of code</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

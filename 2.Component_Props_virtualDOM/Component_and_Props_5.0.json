@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today's discussion centers on a vital React concept called 'children props'. React components have the ability to pass content directly between their opening and closing tags, similar to how you might nest HTML elements. This content is accessed through 'children' props.\n\nImagine you are writing a letter, and you have an envelope (the parent component). Whatever you place inside that envelope could be a photo, a handwritten note, or a printed document (the children). In React, the 'children' prop is what you put inside that 'envelope' \u2014 the parent component.\n\n'Children' are a special prop, automatically passed to every component, that can be used to render the content included between the component's tags. This is immensely powerful for creating reusable components that don't need to know their children ahead of time.\n\nA higher-order component (HOC) is like a protective folder for your envelope. You can't see directly what's inside, but it can have special instructions to handle whatever is in the envelope efficiently and securely. 'Children' passed to an HOC can be manipulated, authorized, or passed along untouched, making HOCs a highly flexible tool for component logic reuse.\n\nBy the end of our journey today, you'll understand how 'children' props work and how they enable the creation and manipulation of higher-order components, empowering you to write more effective and reusable React components.",
+      "slide": "<div>\n    <h1>Understanding 'Children' Props in React</h1>\n    <ul>\n        <li><strong>What are 'children' props?</strong>\n            <ul>\n                <li>Content passed inside a parent component's opening and closing tags</li>\n            </ul>\n        </li>\n        <li><strong>How do they work?</strong>\n            <ul>\n                <li>Special prop automatically passed to every component</li>\n            </ul>\n        </li>\n        <li><strong>Gaining Flexibility:</strong>\n            <ul>\n                <li>Enable dynamic component composition</li>\n            </ul>\n        </li>\n        <li><strong>Higher-Order Components (HOC):</strong>\n            <ul>\n                <li>A pattern that uses 'children' props to manipulate or pass along content</li>\n            </ul>\n        </li>\n    </ul>\n <img src=\"https://i.imgur.com/GoF7YKS.png\" style=\"height:200px; width:200px; object-fit:contain;\" />\n  </div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>'Children' Props in React</h1>\n    <p>What is the purpose of 'children' props in React?</p>\n    <ol>\n        <li>a) To pass and render the stylesheet for a component.</li>\n        <li>b) To dispatch actions to update the application state.</li>\n        <li>c) To pass and render arbitrary content inside component tags.</li>\n        <li>d) To interact with the DOM directly like in vanilla JavaScript.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) To pass and render arbitrary content inside component tags."
+        ],
+        "options": [
+          "a) To pass and render the stylesheet for a component.",
+          "b) To dispatch actions to update the application state.",
+          "c) To pass and render arbitrary content inside component tags.",
+          "d) To interact with the DOM directly like in vanilla JavaScript."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) To pass and render arbitrary content inside component tags.",
+      "slide": "<div>\n    <h1>'Children' Props in React</h1>\n    <p>What is the purpose of 'children' props in React?</p>\n    <ol>\n        <li>a) To pass and render the stylesheet for a component.</li>\n        <li>b) To dispatch actions to update the application state.</li>\n        <li>c) To pass and render arbitrary content inside component tags.</li>\n        <li>d) To interact with the DOM directly like in vanilla JavaScript.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) To pass and render arbitrary content inside component tags.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

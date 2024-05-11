@@ -1,0 +1,46 @@
+{
+    "scenes": [
+        {
+            "script": "Hello, I'm Debobrota, and I'll be your instructor for today's lecture that is Component Lifecycle, Side Effects and useEffect Hook. To non-tech savvy individuals, imagine deciding to build a house. You could acquire all materials separately and plan the construct from scratch, blueprint included. \n\nWhy use Create React App? First, it manages the build setup for you. No need to worry about setting up Webpack or Babel \u2013 it's all done! Second, it provides a solid foundation to scale up with best practices and optimized performance. And third, it's officially supported by the React team, ensuring reliability.\n\nNow, in the context of our lecture on Component Lifecycle, Side Effects, and useEffect Hook, understanding when and why to employ Create React App is pivotal. It directly influences how you manage side effects and lifecycle processes in your application. By the end of this lecture, you will not only understand the convenience of Create React App, but also how it influences the way you handle components and side effects in your reactive house of cards.",
+            "slide": "<div>\n    <h1>Why Use Create React App?</h1>\n    <ul>\n        <li><strong>Simplified Initial Setup:</strong>\n            <ul>\n                <li>Pre-configured build tools like Webpack and Babel</li>\n            </ul>\n        </li>\n        <li><strong>Best Practices & Performance:</strong>\n            <ul>\n                <li>Optimized setup for scalable applications</li>\n            </ul>\n        </li>\n        <li><strong>Official React Support:</strong>\n            <ul>\n                <li>Reliability and up-to-date features</li>\n            </ul>\n        </li>\n        <li><strong>Role in Component Lifecycle & Effects:</strong>\n            <ul>\n                <li>Impacts management of side effects and lifecycle in React applications</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+            "data": null,
+            "type": "explanation"
+        },
+        {
+            "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+            "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+            "data": null,
+            "type": "clarification"
+        },
+        {
+            "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+            "slide": "<div>\n    <h1>Understanding Create React App</h1>\n    <p>Which of the following is NOT a reason to use Create React App?</p>\n    <ol>\n        <li>a) It automatically sets up Webpack and Babel for your project.</li>\n        <li>b) It provides a GUI (Graphical User Interface) for creating components.</li>\n        <li>c) It comes with best practices for scalable application development.</li>\n        <li>d) It has official support from the React team.</li>\n    </ol>\n</div>",
+            "data": {
+                "answer": [
+                    "b",
+                    "option b",
+                    "b) It provides a GUI (Graphical User Interface) for creating components."
+                ],
+                "options": [
+                    "a) It automatically sets up Webpack and Babel for your project.",
+                    "b) It provides a GUI (Graphical User Interface) for creating components.",
+                    "c) It comes with best practices for scalable application development.",
+                    "d) It has official support from the React team."
+                ]
+            },
+            "type": "assessment"
+        },
+        {
+            "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+            "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+            "data": null,
+            "type": "feedback"
+        },
+        {
+            "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) It provides a GUI (Graphical User Interface) for creating components.",
+            "slide": "<div>\n    <h1>Understanding Create React App</h1>\n    <p>Which of the following is NOT a reason to use Create React App?</p>\n    <ol>\n        <li>a) It automatically sets up Webpack and Babel for your project.</li>\n        <li>b) It provides a GUI (Graphical User Interface) for creating components.</li>\n        <li>c) It comes with best practices for scalable application development.</li>\n        <li>d) It has official support from the React team.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) It provides a GUI (Graphical User Interface) for creating components.</h1></div>",
+            "data": null,
+            "type": "revisit"
+        }
+    ]
+}

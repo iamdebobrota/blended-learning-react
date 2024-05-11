@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we'll unwrap the concepts of Component Lifecycle, Side Effects, and the useEffect Hook in React - important for managing a component's birth, growth, and death in our applications. Think of components like characters in a play, making entrances (mounting), changing costumes or roles (updating), and eventually leaving the stage (unmounting).\n\nReact components go through this lifecycle, and with the useEffect Hook, we give them 'superpowers' to interact with the outside world - these interactions are what we call side effects. They can do things like fetching data, setting up subscriptions, or manually changing the Document Object Model (DOM).\n\nSpecifically, useEffect lets us plug into different phases of a component's life. When it first appears, that's the Mount Phase. As it updates, due to changes in state or props, we have the Update Phase. Finally, when the component says goodbye, that's the Unmount Phase. Grasping these concepts helps us write components that behave correctly throughout their lifecycle. Get ready to see how all these pieces fit together in a harmony that keeps our apps functioning smoothly!",
+      "slide": "<div>\n    <h1>Component Lifecycle, Side Effects, and useEffect Hook</h1>\n    <ul>\n        <li><strong>Understanding Component Lifecycle:</strong>\n            <ul>\n                <li>Mount Phase - Introduction of a component to the UI.</li>\n                <li>Update Phase - Changes in the components' props or state.</li>\n                <li>Unmount Phase - Removal of a component from the UI.</li>\n            </ul>\n        </li>\n        <li><strong>Side Effects:</strong>\n            <ul>\n                <li>Interactions with the outside world.</li>\n                <li>Using useEffect Hook to manage side effects.</li>\n            </ul>\n        </li>\n        <li><strong>The useEffect Hook:</strong>\n            <ul>\n                <li>Integrates side effects within component's lifecycle.</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>React Component Phases</h1>\n    <p>Which of the following is NOT a phase that React components go through?</p>\n    <ol>\n        <li>a) Mount Phase</li>\n        <li>b) Update Phase</li>\n        <li>c) Unmount Phase</li>\n        <li>d) Compression Phase</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "d",
+          "option d",
+          "d) Compression Phase"
+        ],
+        "options": [
+          "a) Mount Phase",
+          "b) Update Phase",
+          "c) Unmount Phase",
+          "d) Compression Phase"
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is d) Compression Phase",
+      "slide": "<div>\n    <h1>React Component Phases</h1>\n    <p>Which of the following is NOT a phase that React components go through?</p>\n    <ol>\n        <li>a) Mount Phase</li>\n        <li>b) Update Phase</li>\n        <li>c) Unmount Phase</li>\n        <li>d) Compression Phase</li>\n    </ol>\n</div>\n <div><h1>Answer:- d) Compression Phase</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

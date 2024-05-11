@@ -1,0 +1,46 @@
+{
+    "scenes": [
+        {
+            "script": "Hello, I'm Debobrota Haldar, and I'll be your instructor for today's lecture that is Building React Projects with Vite-CRA, useRef Hook, Utilising Gen AI. Today, we will uncover the modern and efficient way of building React applications using Vite. Vite is a build tool that significantly improves the developer experience by offering a faster and leaner development setup.\n\nImagine you're an artist ready to paint; Vite is the setup that has your canvas, colors, and brushes all laid out instantaneously, as opposed to the traditional, slower process of getting everything ready one by one, which is what happens with tools like Create React App (CRA).\n\nWhy use Vite for React? Vite leverages modern JavaScript features like ES modules to serve code via native browser imports during development, resulting in lightning-fast server start-up and updates with Hot Module Replacement (HMR).\n\nMoreover, we will examine the 'useRef' hook in React, which is like having a personal assistant that remembers crucial details for you without getting involved directly in the artwork\u2014the React render process.\n\nAdding to our toolkit is the utilization of Generative AI, which can be thought of as having an imaginative collaborator that suggests creative ideas and accelerates development workflows.\n\nBy the end of this session, you\u2019ll comprehend why Vite is revolutionizing React development, how to seamlessly integrate the useRef hook for managing references, and how Generative AI can be a game-changer in your projects.",
+            "slide": "<div>\n  <h1>Building React Projects with Vite</h1>\n  <ul>\n    <li><strong>Introducing Vite:</strong>\n      <ul>\n        <li>A modern, faster alternative to Create React App</li>\n      </ul>\n    </li>\n    <li><strong>Benefits of Vite:</strong>\n      <ul>\n        <li>Instant server start and HMR</li>\n      </ul>\n    </li>\n    <li><strong>Understanding useRef Hook:</strong>\n      <ul>\n        <li>Manages references in a React project</li>\n      </ul>\n    </li>\n    <li><strong>Utilizing Generative AI:</strong>\n      <ul>\n        <li>Enhances creativity and efficiency in development</li>\n      </ul>\n    </li>\n  </ul>\n</div>",
+            "data": null,
+            "type": "explanation"
+        },
+        {
+            "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+            "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+            "data": null,
+            "type": "clarification"
+        },
+        {
+            "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+            "slide": "<div>\n  <h1>Key Features of Vite</h1>\n  <p>Which of the following is a key feature of Vite that enhances the development experience for React applications?</p>\n  <ol>\n    <li>a) It compiles React components into native web components.</li>\n    <li>b) It offers faster development start-up and Hot Module Replacement by utilizing ES modules.</li>\n    <li>c) It restricts the use of React hooks to optimize performance.</li>\n    <li>d) It uses traditional page reloads to reflect code changes.</li>\n  </ol>\n</div>",
+            "data": {
+                "answer": [
+                    "b",
+                    "option b",
+                    "b) It offers faster development start-up and Hot Module Replacement by utilizing ES modules."
+                ],
+                "options": [
+                    "a) It compiles React components into native web components.",
+                    "b) It offers faster development start-up and Hot Module Replacement by utilizing ES modules.",
+                    "c) It restricts the use of React hooks to optimize performance.",
+                    "d) It uses traditional page reloads to reflect code changes."
+                ]
+            },
+            "type": "assessment"
+        },
+        {
+            "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+            "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+            "data": null,
+            "type": "feedback"
+        },
+        {
+            "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) It offers faster development start-up and Hot Module Replacement by utilizing ES modules.",
+            "slide": "<div>\n  <h1>Key Features of Vite</h1>\n  <p>Which of the following is a key feature of Vite that enhances the development experience for React applications?</p>\n  <ol>\n    <li>a) It compiles React components into native web components.</li>\n    <li>b) It offers faster development start-up and Hot Module Replacement by utilizing ES modules.</li>\n    <li>c) It restricts the use of React hooks to optimize performance.</li>\n    <li>d) It uses traditional page reloads to reflect code changes.</li>\n  </ol>\n</div>\n <div><h1>Answer:- b) It offers faster development start-up and Hot Module Replacement by utilizing ES modules.</h1></div>",
+            "data": null,
+            "type": "revisit"
+        }
+    ]
+}

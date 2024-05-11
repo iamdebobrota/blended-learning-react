@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we'll embark on an enriching journey into the world of React, focusing on the Component Lifecycle, Side Effects, and the powerful useEffect Hook. Understanding these concepts is like learning how to manage a crew on a ship \u2014 knowing when to hire (Mount phase), when to train or update (Update phase) the crew members, and when to say goodbye or retire (Unmount phase) them efficiently.\n\nFirst, we'll examine the Component Lifecycle, the series of events that occur from the birth to death of a React component. It's like the life story of a character in a play, from the time they step onto the stage until they make their final exit.\n\nThen, we'll discuss Side Effects, those extra tasks that need to be handled alongside the main work, like sending signals to other ships or managing resources on board.\n\nFinally, we arrive at the useEffect Hook, a tool in React's arsenal that allows us to handle side effects in functional components. It's like having a trusted officer on the deck who ensures that all additional tasks are taken care of, at the right time and in the right way.\n\nBy the end of this session, you'll understand the importance of ensuring that components are properly managed throughout their lifecycle, how side effects influence your React applications, and how to harness the power of useEffect to maintain a clean and efficient codebase.",
+      "slide": "<div>\n    <h1>Understanding Component Lifecycle, Side Effects, and useEffect</h1>\n    <ul>\n        <li><strong>Component Lifecycle:</strong>\n            <ul>\n                <li>Mount Phase: Component is created</li>\n                <li>Update Phase: Component is updated</li>\n                <li>Unmount Phase: Component is removed</li>\n            </ul>\n        </li>\n        <li><strong>Side Effects:</strong>\n            <ul>\n                <li>Operations outside of the main flow</li>\n            </ul>\n        </li>\n        <li><strong>useEffect Hook:</strong>\n            <ul>\n                <li>Manages side effects in functional components</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Exploring useEffect</h1>\n    <p>What is the primary purpose of the useEffect Hook in a React component?</p>\n    <ol>\n        <li>a) To update the component state immediately.</li>\n        <li>b) To manage side effects in functional components.</li>\n        <li>c) To render UI components on the screen.</li>\n        <li>d) To initiate the unmounting phase of the component.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) To manage side effects in functional components."
+        ],
+        "options": [
+          "a) To update the component state immediately.",
+          "b) To manage side effects in functional components.",
+          "c) To render UI components on the screen.",
+          "d) To initiate the unmounting phase of the component."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) To manage side effects in functional components.",
+      "slide": "<div>\n    <h1>Exploring useEffect</h1>\n    <p>What is the primary purpose of the useEffect Hook in a React component?</p>\n    <ol>\n        <li>a) To update the component state immediately.</li>\n        <li>b) To manage side effects in functional components.</li>\n        <li>c) To render UI components on the screen.</li>\n        <li>d) To initiate the unmounting phase of the component.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) To manage side effects in functional components.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

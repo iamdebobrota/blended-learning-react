@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today's adventure takes us into the realm of React development bolstered by the speed of Vite, the magic of the useRef Hook, and the futuristic capabilities of Generative AI. Picture this: You're crafting a sophisticated machine \u2014 a React web application. Vite is your turbo-charger, providing an ultra-fast development experience, reducing the time you wait for changes to appear on the screen. The useRef Hook steps in as a multitool, allowing you to directly interact with a component's DOM elements while preserving values across re-renders, like a memory bank that never forgets. Last but not least, you'll tap into Generative AI's potential, harnessing algorithms that can generate content, learn patterns, and even automate tasks. It's like having a robot assistant who's learning and growing smarter with every interaction. By the end of our journey, you'll not only appreciate these powerful tools but also understand how to seamlessly integrate them into your React projects, giving you a technological edge in the ever-evolving landscape of web development.",
+      "slide": "<div>\n    <h1>The Power Trio: Vite, useRef & Gen AI</h1>\n    <ul>\n        <li><strong>Vite:</strong>\n            <ul>\n                <li>Enhances development experience with fast build times</li>\n            </ul>\n        </li>\n        <li><strong>useRef Hook:</strong>\n            <ul>\n                <li>Manages and accesses DOM elements</li>\n                <li>Persists data between renders</li>\n            </ul>\n        </li>\n        <li><strong>Generative AI:</strong>\n            <ul>\n                <li>Automates and generates content</li>\n                <li>Learns and adapts through algorithms</li>\n            </ul>\n        </li>\n        <li><strong>Learning Outcomes:</strong>\n            <ul>\n                <li>Integrate Vite in React projects for speed optimization</li>\n                <li>Use useRef for DOM interactions and state management</li>\n                <li>Utilize Generative AI for innovative solutions in development</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding useRef in React</h1>\n    <p>What best describes the use of the useRef Hook in a React application?</p>\n    <ol>\n        <li>a) Managing state and re-rendering components efficiently.</li>\n        <li>b) Accessing and interacting with DOM elements without causing re-renders.</li>\n        <li>c) Sending HTTP requests to an API.</li>\n        <li>d) Transpiling ES6 to ES5 for browser compatibility.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) Accessing and interacting with DOM elements without causing re-renders."
+        ],
+        "options": [
+          "a) Managing state and re-rendering components efficiently.",
+          "b) Accessing and interacting with DOM elements without causing re-renders.",
+          "c) Sending HTTP requests to an API.",
+          "d) Transpiling ES6 to ES5 for browser compatibility."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) Accessing and interacting with DOM elements without causing re-renders.",
+      "slide": "<div>\n    <h1>Understanding useRef in React</h1>\n    <p>What best describes the use of the useRef Hook in a React application?</p>\n    <ol>\n        <li>a) Managing state and re-rendering components efficiently.</li>\n        <li>b) Accessing and interacting with DOM elements without causing re-renders.</li>\n        <li>c) Sending HTTP requests to an API.</li>\n        <li>d) Transpiling ES6 to ES5 for browser compatibility.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) Accessing and interacting with DOM elements without causing re-renders.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we're going to learn about a pivotal aspect of React \u2013 state management, with a particular focus on the useState hook. Imagine you're planning a party and need to keep track of your guests' RSVPs. Every time someone confirms, you update your list. This is similar to how state works in React components; it's the 'list' that keeps track of various values that might change over time due to user actions or other factors.\n\nThe useState hook is like a sharp pencil that helps you accurately note down or update who's coming to your party. It enables React components to remember information between function calls, which allows your application to respond and update dynamically as users interact with it.\n\nBy the end of our session, you'll understand why state management is crucial in building interactive interfaces and how using the useState hook can empower you to craft responsive and intuitive web applications, even as the underlying data changes and evolves.",
+      "slide": "<div>\n    <h1>Understanding State Management and useState Hook</h1>\n    <ul>\n        <li><strong>What is State in React?</strong>\n            <ul>\n                <li>State represents dynamic data in a component.</li>\n            </ul>\n        </li>\n        <li><strong>Managing State:</strong>\n            <ul>\n                <li>Like tracking RSVPs for a party</li>\n            </ul>\n        </li>\n        <li><strong>useState Hook:</strong>\n            <ul>\n                <li>A tool to update and manage state effectively</li>\n            </ul>\n        </li>\n        <li><strong>Interactive UIs:</strong>\n            <ul>\n                <li>Allows your application to update dynamically</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>useState Hook in React</h1>\n    <p>What is the primary purpose of the useState hook in React?</p>\n    <ol>\n        <li>a) To link different components together.</li>\n        <li>b) To style React components using CSS.</li>\n        <li>c) To allow for state variables in functional components.</li>\n        <li>d) To increase the performance of the application.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) To allow for state variables in functional components."
+        ],
+        "options": [
+          "a) To link different components together.",
+          "b) To style React components using CSS.",
+          "c) To allow for state variables in functional components.",
+          "d) To increase the performance of the application."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) To allow for state variables in functional components.",
+      "slide": "<div>\n    <h1>useState Hook in React</h1>\n    <p>What is the primary purpose of the useState hook in React?</p>\n    <ol>\n        <li>a) To link different components together.</li>\n        <li>b) To style React components using CSS.</li>\n        <li>c) To allow for state variables in functional components.</li>\n        <li>d) To increase the performance of the application.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) To allow for state variables in functional components.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

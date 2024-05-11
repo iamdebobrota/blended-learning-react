@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today's lesson is about an important concept in React.js, a JavaScript library for building user interfaces \u2013 we're talking about State Management and the useState Hook. State management is like the memory of an application. Imagine you're playing a video game, and you decide to pause and grab a snack. When you return and hit resume, you expect the game to be exactly as you left it. That's what state management does for an application; it keeps track of all the changes and interactions,\n\nNow, in React.js, components are like individual puzzle pieces that make up the whole picture of your application. Sharing data between these components can sometimes be a challenge when they're not directly related. This is where the useState Hook comes into play. It's a special function that lets you add React state to function components.\n\nThe useState Hook is like giving each component its little notepad, where it can jot down important stuff it should remember. By the end of this session, you'll understand how useState allows components to hold onto and manage their own state, and how various components in your application can communicate and share data effectively.",
+      "slide": "<div>\n    <h1>Understanding State Management and useState Hook in React.js</h1>\n    <ul>\n        <li><strong>What is State Management?</strong>\n            <ul>\n                <li>Keeps track of interactions and changes in the application</li>\n            </ul>\n        </li>\n        <li><strong>Data Sharing Between Components:</strong>\n            <ul>\n                <li>Challenges of components communication explained</li>\n            </ul>\n        </li>\n        <li><strong>useState Hook:</strong>\n            <ul>\n                <li>A React Hook that allows function components to have state</li>\n            </ul>\n        </li>\n        <li><strong>Practical Understanding:</strong>\n            <ul>\n                <li>How useState enhances component interaction and state management</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>The useState Hook in React.js</h1>\n    <p>What is the primary purpose of the useState Hook in React components?</p>\n    <ol>\n        <li>a) To navigate between different pages in an application.</li>\n        <li>b) To allow function components to maintain their own state over time.</li>\n        <li>c) To request data from a server-side database.</li>\n        <li>d) To optimize the performance of class components.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) To allow function components to maintain their own state over time."
+        ],
+        "options": [
+          "a) To navigate between different pages in an application.",
+          "b) To allow function components to maintain their own state over time.",
+          "c) To request data from a server-side database.",
+          "d) To optimize the performance of class components."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) To allow function components to maintain their own state over time.",
+      "slide": "<div>\n    <h1>The useState Hook in React.js</h1>\n    <p>What is the primary purpose of the useState Hook in React components?</p>\n    <ol>\n        <li>a) To navigate between different pages in an application.</li>\n        <li>b) To allow function components to maintain their own state over time.</li>\n        <li>c) To request data from a server-side database.</li>\n        <li>d) To optimize the performance of class components.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) To allow function components to maintain their own state over time.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

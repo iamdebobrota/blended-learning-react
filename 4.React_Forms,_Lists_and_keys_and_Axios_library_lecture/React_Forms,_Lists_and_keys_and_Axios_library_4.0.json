@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we'll be exploring how to manage forms, lists, and keys in React, and incorporate the Axios library to make network requests, particularly to a JSON server. Imagine you're organizing a library of books. Each book has a unique identifier, like the ISBN, and contains information like the title and author. React forms are like the forms you would fill out to add a new book to the library, lists represent the shelves of books you can scroll through, and keys are like the ISBN numbers, helping React efficiently update the UI.\n\nAxios comes in as the diligent librarian, fetching and returning books from a vast network of libraries \u2013 in our case, making HTTP requests to retrieve or store data on a web server. As we move forward, you'll learn to craft web forms with React, display lists of data using keys, and use Axios to integrate with a JSON server. By mastering these tools, you'll be equipped to create dynamic and responsive web applications.",
+      "slide": "<div>\n    <h1>React Forms, Lists, Keys & Axios</h1>\n    <ul>\n        <li><strong>Understanding React Forms:</strong>\n            <ul>\n                <li>Handling form inputs and submissions</li>\n            </ul>\n        </li>\n        <li><strong>Displaying Lists with Keys:</strong>\n            <ul>\n                <li>Efficiently updating the UI</li>\n            </ul>\n        </li>\n        <li><strong>Integrating Axios with JSON Server:</strong>\n            <ul>\n                <li>Performing network requests to retrieve and store data</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding Keys in React Lists</h1>\n    <p>What is the primary use of keys in a React list?</p>\n    <ol>\n        <li>a) To add style and design to list items.</li>\n        <li>b) To unlock hidden features within React.</li>\n        <li>c) To identify which items have changed, been added, or been removed.</li>\n        <li>d) To increase the network speed when fetching data.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) To identify which items have changed, been added, or been removed."
+        ],
+        "options": [
+          "a) To add style and design to list items.",
+          "b) To unlock hidden features within React.",
+          "c) To identify which items have changed, been added, or been removed.",
+          "d) To increase the network speed when fetching data."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) To identify which items have changed, been added, or been removed.",
+      "slide": "<div>\n    <h1>Understanding Keys in React Lists</h1>\n    <p>What is the primary use of keys in a React list?</p>\n    <ol>\n        <li>a) To add style and design to list items.</li>\n        <li>b) To unlock hidden features within React.</li>\n        <li>c) To identify which items have changed, been added, or been removed.</li>\n        <li>d) To increase the network speed when fetching data.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) To identify which items have changed, been added, or been removed.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

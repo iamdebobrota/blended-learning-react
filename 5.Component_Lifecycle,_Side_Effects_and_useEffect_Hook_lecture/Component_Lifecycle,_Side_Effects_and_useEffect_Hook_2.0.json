@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we will be unwrapping the inner workings of React components through an exploration of Component Lifecycle, Side Effects, and the useEffect Hook. React, a powerful JavaScript library for building user interfaces, guides components through a series of well-defined lifecycle stages. Each lifecycle stage is like a checkpoint in a component's journey, allowing developers to tap into key moments and perform custom behaviors.\n\nAs we embark on this journey, think of React components as actors on a stage, each with their own scripts and cues to follow. When a component makes its first appearance, it's 'born' into the application through the mounting phase. When its role needs to change, it updates accordingly, and when its part is over, it unmounts, exiting the stage gracefully. In these phases, we can intervene with our own code to affect the performance (behavior) of our components.\n\nA critical twist in this plot is when components have to deal with side effects - operations that reach out of the React world for data, subscriptions, or other interactions with the external world. To manage these side effects elegantly, React provides us with the useEffect Hook, allowing components to respond to changes and orchestrate their tasks without disrupting the main show.\n\nBy the end of our session, you'll understand the lifecycles of a React component, how to handle side effects, and effectively use the useEffect Hook, setting the stage for more dynamic and responsive applications.",
+      "slide": "<div>\n    <h1>Understanding React Component Lifecycle and useEffect</h1>\n    <ul>\n        <li><strong>Component Lifecycle:</strong>\n            <ul>\n                <li>Mounting, Updating, and Unmounting stages</li>\n            </ul>\n        </li>\n        <li><strong>Handling Side Effects:</strong>\n            <ul>\n                <li>Operation outside React's flow (e.g., data fetching)</li>\n            </ul>\n        </li>\n        <li><strong>useEffect Hook:</strong>\n            <ul>\n                <li>Manages side effects in functional components</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>React's useEffect Hook</h1>\n    <p>Which React Hook is used for managing side effects in functional components?</p>\n    <ol>\n        <li>a) useState</li>\n        <li>b) useReducer</li>\n        <li>c) useContext</li>\n        <li>d) useEffect</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "d",
+          "option d",
+          "d) useEffect"
+        ],
+        "options": [
+          "a) useState",
+          "b) useReducer",
+          "c) useContext",
+          "d) useEffect"
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is d) useEffect",
+      "slide": "<div>\n    <h1>React's useEffect Hook</h1>\n    <p>Which React Hook is used for managing side effects in functional components?</p>\n    <ol>\n        <li>a) useState</li>\n        <li>b) useReducer</li>\n        <li>c) useContext</li>\n        <li>d) useEffect</li>\n    </ol>\n</div>\n <div><h1>Answer:- d) useEffect</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

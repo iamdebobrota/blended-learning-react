@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we will break down how React, a popular JavaScript library, empowers developers to create dynamic user interfaces. Specifically, we\u2019ll focus on Conditional Rendering and Styling, key techniques that lead to more interactive and responsive applications.\n\nImagine you are directing a play. Depending on the scene, you may want certain actors on stage \u2013 that's Conditional Rendering in React. It allows components to be displayed or hidden based on specific conditions or user interactions.\n\nStyling is akin to choosing the right costumes for your actors. In React, styling techniques dictate the look and feel of your components, ensuring they are visually appealing and fit well within the layout of the stage \u2013 your web application.\n\nBy mastering Conditional Rendering and Styling, you'll be able to create web applications that not only function well but also have the visual impact and usability that modern users expect. Let\u2019s embark on this journey to make your React components smartly responsive and beautifully presented.",
+      "slide": "<div>\n    <h1>Conditional Rendering & Styling in React</h1>\n    <ul>\n        <li><strong>Dynamic User Interfaces:</strong>\n            <ul>\n                <li>React's ability to render components conditionally</li>\n            </ul>\n        </li>\n        <li><strong>Conditional Rendering:</strong>\n            <ul>\n                <li>Displaying components based on conditions</li>\n            </ul>\n        </li>\n        <li><strong>Styling Techniques:</strong>\n            <ul>\n                <li>Customizing component aesthetics</li>\n            </ul>\n        </li>\n        <li><strong>Objective:</strong>\n            <ul>\n                <li>Create visually appealing and responsive applications</li>\n            </ul>\n        </li>\n    </ul>\n  <img src=\"https://i.imgur.com/EFh1hf2.png\" style=\"height:200px; width:200px; object-fit:contain;\" />\n  </div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Conditional Rendering in React</h1>\n    <p>What purpose does Conditional Rendering serve in a React application?</p>\n    <ol>\n        <li>a) Ensures that the application uses minimal memory by deleting unused components.</li>\n        <li>b) Allows components to be displayed only when certain conditions are met.</li>\n        <li>c) Allows the application to run without an internet connection.</li>\n        <li>d) Fixes bugs present in the components automatically.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) Allows components to be displayed only when certain conditions are met."
+        ],
+        "options": [
+          "a) Ensures that the application uses minimal memory by deleting unused components.",
+          "b) Allows components to be displayed only when certain conditions are met.",
+          "c) Allows the application to run without an internet connection.",
+          "d) Fixes bugs present in the components automatically."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) Allows components to be displayed only when certain conditions are met.",
+      "slide": "<div>\n    <h1>Conditional Rendering in React</h1>\n    <p>What purpose does Conditional Rendering serve in a React application?</p>\n    <ol>\n        <li>a) Ensures that the application uses minimal memory by deleting unused components.</li>\n        <li>b) Allows components to be displayed only when certain conditions are met.</li>\n        <li>c) Allows the application to run without an internet connection.</li>\n        <li>d) Fixes bugs present in the components automatically.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) Allows components to be displayed only when certain conditions are met.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

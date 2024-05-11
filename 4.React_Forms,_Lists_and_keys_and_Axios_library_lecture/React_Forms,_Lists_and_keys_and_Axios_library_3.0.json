@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "Today, we're going to immerse ourselves in the versatile world of React, specifically focusing on Forms, Lists and Keys, and the Axios library. In React, forms are the keystones of any interactive web application, providing users with a way to input data that the application can process and respond to.\n\nImagine walking into a cafe and seeing a menu card; this is akin to a form in React, awaiting your choices. We'll learn how to create these 'digital menus' that can handle various types of user input, from text boxes to checkboxes and beyond.\n\nMoreover, imagine a grocery list; this list can grow or shrink based on what you need. In React, we handle dynamic lists of items using 'Lists and Keys' which help us efficiently update the user interface as data changes.\n\nLastly, we step into the realm of Axios, a promise-based HTTP client for making requests to external services, akin to ordering a meal through a delivery app. With Axios, we can talk to servers, request, and receive data, then present it to users, all within our React applications.\n\nBy the end of our session, you'll have a solid understanding of how to manage forms, create dynamic lists, and communicate with servers using Axios, ready to create more interactive and connected web applications.",
+      "slide": "<div>\n    <h1>React Basics: Forms, Lists and Keys, Axios</h1>\n    <ul>\n        <li><strong>Understanding React Forms:</strong>\n            <ul>\n                <li>Building interactive forms to capture user input</li>\n            </ul>\n        </li>\n        <li><strong>Dynamic Data with Lists and Keys:</strong>\n            <ul>\n                <li>Rendering lists of items that can change over time</li>\n            </ul>\n        </li>\n        <li><strong>Communicating with Servers:</strong>\n            <ul>\n                <li>Using Axios library to make HTTP requests</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Axios in React Applications</h1>\n    <p>What is the primary use of the Axios library in a React application?</p>\n    <ol>\n        <li>a) Managing state within the application.</li>\n        <li>b) Processing forms and user inputs.</li>\n        <li>c) Making HTTP requests to external services.</li>\n        <li>d) Rendering lists and assigning unique keys to list items.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "c",
+          "option c",
+          "c) Making HTTP requests to external services."
+        ],
+        "options": [
+          "a) Managing state within the application.",
+          "b) Processing forms and user inputs.",
+          "c) Making HTTP requests to external services.",
+          "d) Rendering lists and assigning unique keys to list items."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is c) Making HTTP requests to external services.",
+      "slide": "<div>\n    <h1>Axios in React Applications</h1>\n    <p>What is the primary use of the Axios library in a React application?</p>\n    <ol>\n        <li>a) Managing state within the application.</li>\n        <li>b) Processing forms and user inputs.</li>\n        <li>c) Making HTTP requests to external services.</li>\n        <li>d) Rendering lists and assigning unique keys to list items.</li>\n    </ol>\n</div>\n <div><h1>Answer:- c) Making HTTP requests to external services.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}

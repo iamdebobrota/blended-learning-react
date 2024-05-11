@@ -1,0 +1,46 @@
+{
+  "scenes": [
+    {
+      "script": "In today's session, we're going to unravel the concepts related to building interactive web forms in React, managing lists and keys to render dynamic content, and utilizing the Axios library for making API calls. For many of you, these might be new concepts, but don't worry, we'll break them down step by step.\n\nFirst, we'll start with React forms, which are key elements on websites that allow users to input data. Imagine a form as a mailbox where you send your information and expect a response back. React simplifies the process of collecting and handling this data with state management.\n\nNext, we'll discuss how to display lists of data using the map function in React. This is like creating a guest list where each guest needs a unique identifier, or a 'key,' so that they can be easily found and managed.\n\nFinally, we'll look into the Axios library, which is like a courier service for the web. It helps our React application to make HTTP requests to external resources, such as APIs, for fetching or posting data efficiently.\n\nBy the end of this lecture, you should be able to create a form in React, understand the importance of keys in lists, and make API calls with Axios. Let's begin our journey into these exciting features that will help you build dynamic and responsive web applications.",
+      "slide": "<div>\n    <h1>React Forms, Lists & Keys, and Axios</h1>\n    <ul>\n        <li><strong>React Forms:</strong>\n            <ul>\n                <li>Controlled components for user input</li>\n                <li>State management for form data</li>\n            </ul>\n        </li>\n        <li><strong>Lists and Keys:</strong>\n            <ul>\n                <li>Rendering lists with the map function</li>\n                <li>Using unique 'keys' for list items</li>\n            </ul>\n        </li>\n        <li><strong>Axios Library:</strong>\n            <ul>\n                <li>Making HTTP requests to APIs</li>\n                <li>Fetching and posting data from/to servers</li>\n            </ul>\n        </li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "explanation"
+    },
+    {
+      "script": "I hope that helped clarify the topic we discussed. Now, let's ensure you understand it fully. When you're ready, please let me know your thoughts by clicking the microphone icon and choosing one of the following options: 'Yes, I understood', 'Please repeat the explanation', or 'I need further clarification'.",
+      "slide": "<div id=\"clarification_slide\">\n    <h1>Time for Clarification</h1>\n    <h2>Did You Get the Topic?</h2>\n    <ul>\n        <li><strong>Options to Respond:</strong></li>\n        <ul>\n            <li><strong>Yes, I have undertood</strong></li>\n            <li><strong>Please repeat the explanation</strong></li>\n            <li><strong>I did not understand the concept</strong></li>\n        </ul>\n    </ul>\n    <h2>Responding Method:</h2>\n    <ul>\n        <li>Click the <strong>Mic Button</strong> at the screen's middle bottom.</li>\n        <li>Voice out your choice: \"Yes, I got it\", \"Repeat\", or \"Don't Understand\".</li>\n    </ul>\n    <h2>Your Understanding is Key:</h2>\n    <ul>\n        <li>Your feedback is vital for us.</li>\n        <li>Feel free to ask for repetition or further clarification.</li>\n    </ul>\n</div>",
+      "data": null,
+      "type": "clarification"
+    },
+    {
+      "script": "Are you prepared for a short assessment? Take a moment to think about your answer; here's the question.",
+      "slide": "<div>\n    <h1>Understanding Keys in React Lists</h1>\n    <p>What is the primary reason for using keys in a list when developing applications with React?</p>\n    <ol>\n        <li>a) To add style to list items.</li>\n        <li>b) To improve list rendering performance by helping React identify which items have changed.</li>\n        <li>c) To encrypt list data for security purposes.</li>\n        <li>d) To specify the order of items alphabetically.</li>\n    </ol>\n</div>",
+      "data": {
+        "answer": [
+          "b",
+          "option b",
+          "b) To improve list rendering performance by helping React identify which items have changed."
+        ],
+        "options": [
+          "a) To add style to list items.",
+          "b) To improve list rendering performance by helping React identify which items have changed.",
+          "c) To encrypt list data for security purposes.",
+          "d) To specify the order of items alphabetically."
+        ]
+      },
+      "type": "assessment"
+    },
+    {
+      "script": "You've got it! Understanding the core function of concept is essential, and you've done a fantastic job grasping it. Keep up the excellent work as we move forward!",
+      "slide": "<div id=\"feedback_slide\">\n    <h1>You Are Correct!</h1>\n    <img src=\"https://i.ibb.co/LvBxxBH/correct.webp\" alt=\"Correct Answer\">\n</div>",
+      "data": null,
+      "type": "feedback"
+    },
+    {
+      "script": "It appears there might be some uncertainty, but that's completely fine! Let's review the material again to enhance our understanding, and the correct answer is b) To improve list rendering performance by helping React identify which items have changed.",
+      "slide": "<div>\n    <h1>Understanding Keys in React Lists</h1>\n    <p>What is the primary reason for using keys in a list when developing applications with React?</p>\n    <ol>\n        <li>a) To add style to list items.</li>\n        <li>b) To improve list rendering performance by helping React identify which items have changed.</li>\n        <li>c) To encrypt list data for security purposes.</li>\n        <li>d) To specify the order of items alphabetically.</li>\n    </ol>\n</div>\n <div><h1>Answer:- b) To improve list rendering performance by helping React identify which items have changed.</h1></div>",
+      "data": null,
+      "type": "revisit"
+    }
+  ]
+}
