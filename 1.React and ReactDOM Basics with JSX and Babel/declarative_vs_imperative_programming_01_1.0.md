@@ -17,7 +17,7 @@ Hey everyone, Hope you all are doing well. I'm Ayaz Noori, and I'll be your guid
     - Declarative focuses on the "what".
     - Imperative focuses on the "how".
 
-    <img src="https://i.imgur.com/Zl5ZXPu.png" style="height:200px; width:200px; object-fit:contain" />  
+    <img src="https://i.imgur.com/Zl5ZXPu.png" style="height:10vh; width:20vh; object-fit:contain" />  
 
 ## Segment-2 type Clarification
 

@@ -14,6 +14,8 @@ Let's simplify the concept of interpolation in React. Interpolation allows you t
     - Enhances user experience by displaying relevant information.
   - **Key Concept:**
     - Interpolation makes JSX dynamic, keeping UI content fresh and relevant.
+        <img src="https://i.imgur.com/Jx80CNH.png" style="height:10vh; width:20vh; object-fit:contain" />
+
 
 ## Segment-2 type Clarification
 

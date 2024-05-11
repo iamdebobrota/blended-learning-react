@@ -16,6 +16,7 @@ Let's simplify the comparison between using JavaScript with the DOM and using Re
   - **Key Differences:**
     - Manual DOM manipulation vs. Component-based approach.
     - Handling updates vs. Automatic updates by React.
+        <img src="https://i.imgur.com/ql19S7x.png" style="height:10vh; width:20vh; object-fit:contain" />
 
 ## Segment-2 type Clarification
 
